@@ -11,25 +11,28 @@
     position: absolute;
     top: 2em;
     left: 1em;
-    width: 9em }
+    width: 10em }
     h1 {
-    font-family: Helvetica, Geneva, Arial,SunSans-Regular, sans-serif }
+    font-family: Helvetica, Geneva, Arial,SunSans-Regular, sans-serif;
+    text-align: justify;
+       }
           
     ul.navbar li {
     background: #66FF99;
     margin: 0.5em 0;
     padding: 0.3em;
-    border-right: 1em solid black }
+    border-right: 1em }
     
     .imagem {
       padding: 1px;
-      float:right
+      float: right;
+      display: none;
        }
 
   ul.navbar a {
     text-decoration: none }
   a:link {
-    color: red }
+    color: black }
   a:visited {
     color: purple }
     address {
