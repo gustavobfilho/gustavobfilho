@@ -4,14 +4,16 @@
   	font-family: Georgia, "Times New Roman",Times, serif;
     color: white;
     background-color: #32CD99 }
+
     ul.navbar {
     list-style-type: none;
     padding: 0;
     margin: 0;
     position: absolute;
-    top: 2em;
+    top: 1em;
     left: 1em;
     width: 10em }
+    
     h1 {
     font-family: Helvetica, Geneva, Arial,SunSans-Regular, sans-serif;
     text-align: justify;
