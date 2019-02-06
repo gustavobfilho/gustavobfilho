@@ -1,0 +1,56 @@
+body{
+  background: white;
+}
+
+h1{
+  text-align: center;
+}
+
+header{
+  color: white;
+}
+
+
+.box1{
+  border-radius:300% 0% 0% 0%;
+  background: red;
+  padding: 20px;
+  width: 200px;
+  height: 200px;
+  box-sizing: border-box;
+  display: block;
+  float: left;
+}
+
+.box2{
+  border-radius: 0% 300% 0px 0px;
+  background: orange;
+  padding: 20px;
+  width: 200px;
+  height: 200px;
+  box-sizing: border-box;
+  display: flex;
+}
+
+.box3{
+  border-radius: 0% 0% 0% 300%;
+  background: green;
+  padding: 20px;
+  width: 200px;
+  height: 200px;
+  box-sizing: border-box;
+  float: left;
+  display: block;
+}
+
+.box4{
+  /*border-radius: 0px 0px 0px 300px;*/
+  border-radius: 0% 0% 300% 0%;
+  background: purple;
+  padding: 20px;
+  width: 200px;
+  height: 200px;
+  box-sizing: border-box;
+  float: left;
+  display: flex;
+}
