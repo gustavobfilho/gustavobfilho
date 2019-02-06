@@ -1,0 +1,176 @@
+    body{
+        background: rgba(0, green, blue, 1.5)
+        font-family: "opensans regular", arial, sans-serif; 
+        font-size: 20px;
+        margin: 5px;
+        
+    }
+    
+    .main{
+        background: linear-gradient(to top center, green,yellowgreen);       
+        margin: 5px;
+        display: block;
+        height: 15px;
+        padding: 20px;
+        
+        }
+    a:hover{
+        background: green;
+        color: whitesmoke;
+        
+    }  
+
+    .main a{
+        text-decoration: none;
+        font-size: 15px;
+        box-sizing: border-box;
+        border: solid 1px greenyellow;
+        padding: 5px;
+        border-width: 5px;
+
+    }
+    
+
+    .noticia {
+        font-family: "opensans regular", arial, sans-serif;
+        background: linear-gradient(to top left ,green, yellowgreen);
+        /*border: 1px solid rgb(255, 255, 255);*/
+        color: black;
+        font-size: 20px;
+        padding-left: 15px;
+        padding-right: 15px;
+        text-align: justify;
+        width: 1200px;
+        margin: 2% 20% 10% 20%;
+        float: block;
+        box-sizing: border-box;
+        box-shadow: 20px 20px 10px #888888;
+        border-radius: 20px;
+        }
+    
+    .noticia h1 {
+        background: rgba(0, green, blue, 0.5);
+        text-shadow: 5px 5px 5px #888888; 
+        margin: 5px;
+        }
+    
+    .noticia h5 {
+        color: rgb(0,0,0);
+        font-family: "Heveltica Neue", Arial, sans-serif;  
+        margin: 3px;
+        text-align: right;
+    }
+
+    .noticia p {
+        clear: both;
+    }
+              
+    .box1 {
+            background: url(../img/marvelxdc.jpg);
+            width: 900px;
+            height: 390px;
+            margin: 10px 30px 20px 120px;
+            box-sizing: border-box;
+            border-radius: 20px;
+        }
+    
+    .box2 {
+            background: url(../img/superman.jpg);
+            width: 600px;
+            height: 300px;
+            margin: 50px 20px 20px 300px;
+            box-sizing: border-box;
+            border-radius: 20px;
+        }
+
+    .box3 {
+            background: url(../img/homem-aranha.jpg);
+            width: 600px;
+            height: 300px;
+            margin: 50px 20px 20px 300px;
+            box-sizing: border-box;
+            border-radius: 20px;
+        }
+
+    .box4 {
+            background: url(../img/batman.jpg);
+            width: 600px;
+            height: 300px;
+            margin: 50px 20px 20px 300px;
+            box-sizing: border-box;
+            border-radius: 20px;
+        }
+
+    .box5 {
+            background: url(../img/mulher-maravilha.jpg);
+            width: 600px;
+            height: 300px;
+            margin: 50px 20px 20px 300px;
+            box-sizing: border-box;
+            border-radius: 20px;
+        }   
+
+    .box6 {
+            background: url(../img/homem-de-ferro.jpeg);
+            width: 600px;
+            height: 300px;
+            margin: 50px 20px 20px 300px;
+            box-sizing: border-box;
+            border-radius: 20px;
+        }    
+    
+
+    .box7 {
+            background: url(../img/capitaoamerica.jpg);
+            width: 600px;
+            height: 300px;
+            margin: 50px 20px 20px 300px;
+            box-sizing: border-box;
+            border-radius: 20px;
+        }  
+
+    .box8 {
+            background: url(../img/hulk.jpg);
+            width: 600px;
+            height: 300px;
+            margin: 50px 20px 20px 300px;
+            box-sizing: border-box;
+            border-radius: 20px;
+        }
+
+    .box9 {
+            background: url(../img/thor.jpg);
+            width: 600px;
+            height: 300px;
+            margin: 50px 20px 20px 300px;
+            box-sizing: border-box;
+            border-radius: 20px;
+        }
+
+    .box10 {
+            background: url(../img/lanterna.jpg);
+            width: 600px;
+            height: 300px;
+            margin: 50px 20px 20px 300px;
+            box-sizing: border-box;
+            border-radius: 20px;
+        }
+
+    .box11 {
+            background: url(../img/flash.jpg);
+            width: 600px;
+            height: 300px;
+            margin: 50px 20px 20px 300px;
+            box-sizing: border-box;
+            border-radius: 20px;
+        }
+
+    .rodape {
+            background: linear-gradient(to top right ,green, yellowgreen);
+            clear:both;
+            text-align:center; 
+	    position: fixed;
+	    bottom: 0;
+            width: 100%;
+        }
+    
