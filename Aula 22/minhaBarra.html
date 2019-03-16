@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>MinhaBarra</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<nav class="navbar navbar-inverse" style="background-color:red">
+  <div class="container-fluid">
+    <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#minhabarra">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span> 
+            </button>
+                
+      <a class="navbar-brand" href="#">LOGO</a>
+    </div>
+    <div class="collapse navbar-collapse" id="minhabarra">
+    <ul class="nav navbar-nav navbar-right" style="background-color:red">
+        <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Home</a></li>
+        <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Empresa</a></li>
+        <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Cliente</a></li>
+        <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Produto</a></li>
+        <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Minha Conta<span class="caret"></span></a>
+        <ul class="dropdown-menu">
+            <li><button type="button" class="btn btn-default" data-toggle="modal" data-target="#janela">Editar</button>
+            <p><button type="button" class="btn btn-default" data-toggle="modal" data-target="#janela">Logar</button></p>
+            </li>
+        </ul>
+    </ul>
+  </div>
+</div>
+</nav>
+
+<div class="container">
+         
+    <form class="modal" id="janela">
+        <div class="modal-dialog">
+                
+            <div class="modal-content">
+                <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">
+                            <span>&times;</span>
+                        </button>
+                        <h4 class="modal-title">Efetuar Login</h4>
+
+                        <div class="form-group">
+                            <input type="email" class="form-control" id="email" placeholder="Digite seu email">
+                        </div>
+                        <div class="form-group">
+                            <input type="password" class="form-control" id="senha" placeholder="Digite sua senha">
+                        </div>        
+                        
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Cancelar</button>
+                    <button type="submit" class="btn btn-primary">Entrar</button>
+                </div>  
+                </div>
+            </div>
+
+        </div>
+    </form>
+  </div>    
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="bootstrap/js/jquery.min.js"><\/script>')</script>
+<script src="js/bootstrap.min.js"></script>
+  
+</body>
+</html>

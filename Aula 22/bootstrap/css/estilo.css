@@ -1,0 +1,87 @@
+#scrollToTop {
+	cursor: pointer;
+	font-size: 0.9em;
+	position: fixed;
+	text-align: center;
+	z-index: 9999;
+	-webkit-transition: background-color 0.2s ease-in-out;
+	-moz-transition: background-color 0.2s ease-in-out;
+	-ms-transition: background-color 0.2s ease-in-out;
+	-o-transition: background-color 0.2s ease-in-out;
+	transition: background-color 0.2s ease-in-out;
+
+	background: #fcf87c;
+	color: #241c1c;
+	border-radius: 3px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	right: 20px; bottom: 20px;
+}
+
+#scrollToTop:hover {
+	background: #0088cc;
+	color: #ffffff;
+}
+
+#scrollToTop > img {
+	display: block;
+	margin: 0 auto;
+}
+.gkcol { width: 220px; }
+
+body,
+.box .header small,
+dl#tabs dt.tabs span h3, 
+dl.tabs dt.tabs span h3,
+.gkMenu > ul > li li,
+.bigtitle h3.header,
+.box.badge-new .header::after,
+.box.badge-popular .header::after,
+.box.badge-top .header::after { font-family: Arial, Helvetica, sans-serif; }
+
+h1, h2, h3, h4, h5, h6,#gkLogo.text,
+.gkMenu > ul > li,
+#gkTopMenu,
+#gkUserArea,
+.box .header,
+.itemAuthorContent h3,
+.gkTabsNav,
+th,
+.nsphover .nspInfo2 { font-family: Arial, Helvetica, sans-serif; }
+
+.blank { font-family: Verdana, Geneva, sans-serif; }
+
+.blank { font-family: Georgia, "Times New Roman", Times, serif; }
+
+@media screen and (max-width: 772.5px) {
+	    	#k2Container .itemsContainer { width: 100%!important; } 
+	    	.cols-2 .column-1,
+	    	.cols-2 .column-2,
+	    	.cols-3 .column-1,
+	    	.cols-3 .column-2,
+	    	.cols-3 .column-3,
+	    	.demo-typo-col2,
+	    	.demo-typo-col3,
+	    	.demo-typo-col4 {width: 100%; }
+	    	}
+#gkSidebar { width: 32%; }
+
+#gkSearch { width: 32%; }
+
+#gkBreadcrumb { width: 68%; }
+
+#gkPageContent { background-position: 68% 0!important; }
+#gkContent { background-image: none!important; }
+#gkMainbody > div { width: 100%; }
+
+#gkContent { width: 68%; }
+
+#gkContentWrap { width: 100%; }
+
+.gkPage { max-width: 1930px; }
+
+
+
+#ty2udate313 {display:inline-block;width:auto;}

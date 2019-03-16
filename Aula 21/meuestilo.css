@@ -1,0 +1,15 @@
+.conteudo{
+    background:#DCDCDC;
+    border: 2px;
+}
+
+.linha{
+    background: #FFEBCD;
+    border: 2px solid black;
+
+}
+
+.coluna{
+    background: white;
+    border: 2px solid black ;
+}

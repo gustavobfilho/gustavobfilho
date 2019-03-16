@@ -1,0 +1,1 @@
+function listen(evnt,elem,func){if(elem.addEventListener)elem.addEventListener(evnt,func,false);else if(elem.attachEvent){var r=elem.attachEvent("on"+evnt,func);return r}}

@@ -1,0 +1,1298 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#" class="" lang="pt-br" class="lol">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2.0">
+<base href="https://www.segs.com.br/" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="google-site-verification" content="7d9337979bb88e35" />
+<meta name="msvalidate.01" content="A8EB7BE4E8E073279E845A1B59CE89C2" />
+<meta name="y_key" content="96a040ca20d1f8cf" />
+<meta name="keywords" content="clipp,portal,segs,notícias,seguros,saúde,veículos,informática,ti,educação,vagas" />
+<meta name="rights" content="© 2002 - 2019 - Segs.com.br - Todos os direitos reservados." />
+<meta name="robots" content="index, follow" />
+<meta name="application-name" content="Bem vindo ao Segs!" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta name="msapplication-square70x70logo" content="cache/CedAdd2Home/new-70x70-tiny.png" />
+<meta name="msapplication-square150x150logo" content="cache/CedAdd2Home/new-150x150-square.png" />
+<meta name="msapplication-wide310x150logo" content="cache/CedAdd2Home/new-310x150-wide.jpg" />
+<meta name="msapplication-square310x310logo" content="cache/CedAdd2Home/new-310x310-large.jpg" />
+<meta name="description" content="Home Inicial Segs.com.br - Portal Nacional de Seguros" />
+<meta name="generator" content="Segs.com.br - Portal Nacional de Seguros" />
+<title>Home | Segs - Portal Nacional|Clipp Notícias de Seguros,Saúde,Ti,Educação</title>
+<link href="/?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+<link href="/?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+<link href="https://www.segs.com.br/amp" rel="amphtml" />
+<link href="https://www.segs.com.br/templates/gk_news/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+<link href="/templates/gk_news/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+<link href="https://www.segs.com.br/home/busca?format=opensearch" rel="search" title="Pesquisar Segs - Portal Nacional|Clipp Notícias de Seguros,Saúde,Ti,Educação" type="application/opensearchdescription+xml" />
+<link href="/components/com_jcomments/tpl/default/style.css" rel="stylesheet" type="text/css" />
+<link href="/media/k2/assets/css/k2.fonts.css" rel="stylesheet" type="text/css" />
+<link href="/templates/gk_news/css/k2.css" rel="stylesheet" type="text/css" />
+<link href="https://www.segs.com.br/templates/gk_news/css/k2.css" rel="stylesheet" type="text/css" />
+<link href="https://www.segs.com.br/templates/gk_news/css/normalize.css" rel="stylesheet" type="text/css" />
+<link href="https://www.segs.com.br/templates/gk_news/css/layout.css" rel="stylesheet" type="text/css" />
+<link href="https://www.segs.com.br/templates/gk_news/css/joomla.css" rel="stylesheet" type="text/css" />
+<link href="https://www.segs.com.br/templates/gk_news/css/system/system.css" rel="stylesheet" type="text/css" />
+<link href="https://www.segs.com.br/templates/gk_news/css/template.css" rel="stylesheet" type="text/css" />
+<link href="https://www.segs.com.br/templates/gk_news/css/menu/menu.css" rel="stylesheet" type="text/css" />
+<link href="https://www.segs.com.br/templates/gk_news/css/gk.stuff.css" rel="stylesheet" type="text/css" />
+<link href="https://www.segs.com.br/templates/gk_news/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+<link href="https://www.segs.com.br/templates/gk_news/css/style1.css" rel="stylesheet" type="text/css" />
+<link href="https://www.segs.com.br/templates/gk_news/css/typography/typography.style1.css" rel="stylesheet" type="text/css" />
+<link href="https://www.segs.com.br/media/com_acymailing/css/module_default.css" rel="stylesheet" type="text/css" />
+<link href="https://www.segs.com.br/modules/mod_news_pro_gk5/tmpl/portal_modes/new_news_header/style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+#scrollToTop {
+	cursor: pointer;
+	font-size: 0.9em;
+	position: fixed;
+	text-align: center;
+	z-index: 9999;
+	-webkit-transition: background-color 0.2s ease-in-out;
+	-moz-transition: background-color 0.2s ease-in-out;
+	-ms-transition: background-color 0.2s ease-in-out;
+	-o-transition: background-color 0.2s ease-in-out;
+	transition: background-color 0.2s ease-in-out;
+
+	background: #fcf87c;
+	color: #241c1c;
+	border-radius: 3px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	right: 20px; bottom: 20px;
+}
+
+#scrollToTop:hover {
+	background: #0088cc;
+	color: #ffffff;
+}
+
+#scrollToTop > img {
+	display: block;
+	margin: 0 auto;
+}.gkcol { width: 220px; }body,
+.box .header small,
+dl#tabs dt.tabs span h3, 
+dl.tabs dt.tabs span h3,
+.gkMenu > ul > li li,
+.bigtitle h3.header,
+.box.badge-new .header::after,
+.box.badge-popular .header::after,
+.box.badge-top .header::after { font-family: Arial, Helvetica, sans-serif; }
+h1, h2, h3, h4, h5, h6,#gkLogo.text,
+.gkMenu > ul > li,
+#gkTopMenu,
+#gkUserArea,
+.box .header,
+.itemAuthorContent h3,
+.gkTabsNav,
+th,
+.nsphover .nspInfo2 { font-family: Arial, Helvetica, sans-serif; }
+.blank { font-family: Verdana, Geneva, sans-serif; }
+.blank { font-family: Georgia, "Times New Roman", Times, serif; }
+@media screen and (max-width: 772.5px) {
+	    	#k2Container .itemsContainer { width: 100%!important; } 
+	    	.cols-2 .column-1,
+	    	.cols-2 .column-2,
+	    	.cols-3 .column-1,
+	    	.cols-3 .column-2,
+	    	.cols-3 .column-3,
+	    	.demo-typo-col2,
+	    	.demo-typo-col3,
+	    	.demo-typo-col4 {width: 100%; }
+	    	}#gkSidebar { width: 32%; }
+#gkSearch { width: 32%; }
+#gkBreadcrumb { width: 68%; }
+#gkPageContent { background-position: 68% 0!important; }#gkContent { background-image: none!important; }#gkMainbody > div { width: 100%; }
+#gkContent { width: 68%; }
+#gkContentWrap { width: 100%; }
+.gkPage { max-width: 1930px; }
+#menu101 > div,
+#menu101 > div > .childcontent-inner { width: 220px; }
+#menu447 > div,
+#menu447 > div > .childcontent-inner { width: 220px; }
+#menu448 > div,
+#menu448 > div > .childcontent-inner { width: 220px; }
+#menu260 > div,
+#menu260 > div > .childcontent-inner { width: 220px; }
+#menu262 > div,
+#menu262 > div > .childcontent-inner { width: 220px; }
+#menu258 > div,
+#menu258 > div > .childcontent-inner { width: 220px; }
+#menu449 > div,
+#menu449 > div > .childcontent-inner { width: 220px; }
+#menu865 > div,
+#menu865 > div > .childcontent-inner { width: 220px; }
+#menu601 > div,
+#menu601 > div > .childcontent-inner { width: 220px; }
+#menu659 > div,
+#menu659 > div > .childcontent-inner { width: 220px; }
+#ty2udate313 {display:inline-block;width:auto;}
+	</style>
+<script type="application/json" class="joomla-script-options new">{"csrf.token":"bffc1ca42248f077989890611d89e53a","system.paths":{"root":"","base":""}}</script>
+<script src="/media/system/js/mootools-core.js?34fbd2910edc3b0dd7dfbb8d29a4f3bc" type="text/javascript"></script>
+<script src="/media/system/js/core.js?34fbd2910edc3b0dd7dfbb8d29a4f3bc" type="text/javascript"></script>
+<script src="/media/system/js/mootools-more.js?34fbd2910edc3b0dd7dfbb8d29a4f3bc" type="text/javascript"></script>
+<script src="/media/plg_system_sl_scrolltotop/js/scrolltotop_mt.js" type="text/javascript"></script>
+<script src="/media/jui/js/jquery.min.js?34fbd2910edc3b0dd7dfbb8d29a4f3bc" type="text/javascript"></script>
+<script src="/media/jui/js/jquery-noconflict.js?34fbd2910edc3b0dd7dfbb8d29a4f3bc" type="text/javascript"></script>
+<script src="/media/jui/js/jquery-migrate.min.js?34fbd2910edc3b0dd7dfbb8d29a4f3bc" type="text/javascript"></script>
+<script src="/media/k2/assets/js/k2.frontend.js?v2.7.0&amp;sitepath=/" type="text/javascript"></script>
+<script src="https://www.segs.com.br/templates/gk_news/js/gk.scripts.js" type="text/javascript"></script>
+<script src="https://www.segs.com.br/templates/gk_news/js/gk.menu.js" type="text/javascript"></script>
+<script src="https://www.segs.com.br/templates/gk_news/js/fitvids.jquery.js" type="text/javascript"></script>
+<script src="https://www.segs.com.br/templates/gk_news/js/prefixfree.js" type="text/javascript"></script>
+<script src="https://www.segs.com.br/modules/mod_news_pro_gk5/interface/scripts/engine.jquery.js" type="text/javascript"></script>
+<script src="https://www.segs.com.br/media/com_acymailing/js/acymailing_module.js" type="text/javascript" async="async"></script>
+<script src="https://www.segs.com.br/modules/mod_date2/ty2udate.js" type="text/javascript"></script>
+<script src="https://www.segs.com.br/modules/mod_news_pro_gk5/tmpl/portal_modes/new_news_header/script.jquery.js" type="text/javascript"></script>
+<script src="## chrome 72" type="text/javascript"></script>
+<script type="text/javascript">
+document.addEvent('domready', function() {
+	new Skyline_ScrollToTop({
+		'image':		'',
+		'text':			'Topo',
+		'title':		'Topo',
+		'className':	'scrollToTop',
+		'duration':		500,
+		'transition':	Fx.Transitions.linear
+	});
+});$GKMenu = { height:false, width:false, duration: 250 };
+$GK_TMPL_URL = "https://www.segs.com.br/templates/gk_news";
+
+$GK_URL = "https://www.segs.com.br/";
+	if(typeof acymailingModule == 'undefined'){
+				var acymailingModule = [];
+			}
+			
+			acymailingModule['emailRegex'] = /^[a-z0-9!#$%&\'*+\/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&\'*+\/=?^_`{|}~-]+)*\@([a-z0-9-]+\.)+[a-z0-9]{2,10}$/i;
+
+			acymailingModule['NAMECAPTION'] = 'Nome';
+			acymailingModule['NAME_MISSING'] = 'Informe seu nome.';
+			acymailingModule['EMAILCAPTION'] = 'Email';
+			acymailingModule['VALID_EMAIL'] = 'Informe um endereço de email válido.';
+			acymailingModule['ACCEPT_TERMS'] = 'Verifique os Termos e Condições de Uso';
+			acymailingModule['CAPTCHA_MISSING'] = 'Digite a chave de segurança que aparece na imagem';
+			acymailingModule['NO_LIST_SELECTED'] = 'Escolha as listas nas quais você deseja se cadastrar.';
+		
+acymailingModule['excludeValuesformAcymailing24801'] = [];
+acymailingModule['excludeValuesformAcymailing24801']['name'] = 'Nome';
+acymailingModule['excludeValuesformAcymailing24801']['email'] = 'Email';
+eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('f.j="R L 18 I 19:18:K +U";1n r(){h(f.j==""){b d=e m()}l{b d=e m(f.j);b F=e m();b G=F.C()/y;b H=d.C()/y;d.1b(d.u()+(H-G));d.1i(d.s()+1);f.j=d.w()};b 1d="";b 1e="";b q="";b g="";h(f.j==""){b c=e m()}l{b c=e m(f.j)}b 1c=0;x=d.w();c.Z(x);1f=c.1g();z=c.1l();q=c.1m();t=c.1k();g=t;h(g<1j)g=g+1h;k=c.u();h(k<10){k="0"+k}l{k=""+k};n=c.Y();h(n<10){v="0"+n}l{v=""+n};i=c.s();h(i<10){i="0"+i}l{i=""+i};J=e p("X","M","Vça","W","T","N","SáO");A=e p("P","Q","1aço","1J","1K","1H","1o","1F","1G","1M","1R","1S");B=e p("1Q","1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","1y","1x","1z","1A","1C","1B","1w","1v","1q","1p","1r","1s");b E=(""+"1u, "+B[q]+" "+"D "+A[z]+" "+"D "+g+"");1t.1D("1E").1O=E;1N("r()",1P)};1L("1I",f,r);',62,117,'|||||||||||var|mydate313|newdate313|new|window|year313|if|myseconds313|ty2udate_tracker313|myhours313|else|Date|myminutes313||Array|myweekday313|clock313|getSeconds|myyear313|getHours|mytime313|getTime|newtimea313|60|mymonth313|armonth313|ardate313|getTimezoneOffset|de|time313|localDate|localOffsetHours|newOffsetHours|2019|arday313|33|Feb|Segunda|Sexta|bado|Janeiro|Fevereiro|Mon||Quinta|0000|Ter|Quarta|Domingo|getMinutes|setTime|||||||||||Mar|setHours|houradjust313|day313|month313|myday313|getDay|1900|setSeconds|2000|getYear|getMonth|getDate|function|Julho|29|28|30|31|document|Brasil|27|26|21|20|22|23|25|24|getElementById|ty2udate313|Agosto|Setembro|Junho|load|Abril|Maio|listen|Outubro|setTimeout|innerHTML|1000|0th|Novembro|Dezembro'.split('|')))
+
+	</script>
+<link rel="apple-touch-icon" href="https://www.segs.com.br/images/barra/touchdevice3.png">
+<link rel="apple-touch-icon-precomposed" href="https://www.segs.com.br/images/barra/touchdevice3.png">
+
+<script type="application/ld+json"> { "@context": "https://schema.org", "@type": "WebSite", "name": "Portal Nacional de Seguros", "url": "https://www.segs.com.br" } </script> <script type="application/ld+json"> { "@context": "https://schema.org", "@type": "WebSite", "url": "https://www.segs.com.br", "potentialAction": { "@type": "SearchAction", "target": "https://www.segs.com.br/index.php?option=com_search&searchphrase=all&searchword={search_term}", "query-input": "required name=search_term" } } </script> <script type="application/ld+json"> { "@context": "https://schema.org", "@type": "Organization", "url": "https://www.segs.com.br", "logo": "https://www.segs.com.br/images/segsazul1.png" } </script> <script type="application/ld+json"> { "@context": "https://schema.org", "@type": "Organization", "name": "Portal Nacional de Seguros", "url": "https://www.segs.com.br", "sameAs": [ "https://www.facebook.com/segs.portalnacional", "https://twitter.com/portal_nacional", "https://plus.google.com/u/0/+JCTegami", "https://www.linkedin.com/in/segs-com-br-portal-nacional-89abb424/", "https://br.pinterest.com/segspnacional/" ] } </script> <script type="application/ld+json"> { "@context": "https://schema.org", "@type": "LocalBusiness", "@id": "https://www.segs.com.br", "name": "Portal Nacional de Seguros", "image": "https://www.segs.com.br/images/segsazul1.png", "url": "https://www.segs.com.br", "telephone": "+551322028100", "address": { "@type": "PostalAddress", "addressLocality": "São Paulo", "addressRegion": "SP", "postalCode": "11000000", "addressCountry": "BR" }, "priceRange": 0, "geo": { "@type": "GeoCoordinates", "latitude": "-23.566111299194986", "longitude": "-46.65155008435249" } } </script>
+
+<link rel="manifest" href="/manifest.json" />
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+<script>
+  var OneSignal = window.OneSignal || [];
+  OneSignal.push(function() {
+    OneSignal.init({
+      appId: "808d9490-30db-478c-b6dc-3c1dd9c87856",
+    });
+  });
+</script>
+<link rel="canonical" href="https://www.segs.com.br/" />
+<link rel="stylesheet" href="https://www.segs.com.br/templates/gk_news/css/small.desktop.css" media="(max-width: 1930px)" />
+<link rel="stylesheet" href="https://www.segs.com.br/templates/gk_news/css/tablet.css" media="(max-width: 1030px)" />
+<link rel="stylesheet" href="https://www.segs.com.br/templates/gk_news/css/small.tablet.css" media="(max-width: 900px)" />
+<link rel="stylesheet" href="https://www.segs.com.br/templates/gk_news/css/mobile.css" media="(max-width: 640px)" />
+<link rel="stylesheet" href="https://www.segs.com.br/templates/gk_news/css/override.css" />
+<!--[if IE 9]>
+<link rel="stylesheet" href="https://www.segs.com.br/templates/gk_news/css/ie/ie9.css" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="https://www.segs.com.br/templates/gk_news/css/ie/ie8.css" type="text/css" />
+<![endif]-->
+<!--[if lte IE 7]>
+<link rel="stylesheet" href="https://www.segs.com.br/templates/gk_news/css/ie/ie7.css" type="text/css" />
+<![endif]-->
+<!--[if (gte IE 6)&(lte IE 8)]>
+<script type="text/javascript" src="https://www.segs.com.br/templates/gk_news/js/respond.js"></script>
+<script type="text/javascript" src="https://www.segs.com.br/templates/gk_news/js/selectivizr.js"></script>
+<script type="text/javascript" src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+</head>
+<body class="lol" data-tablet-width="1030" data-mobile-width="640" data-smoothscroll="1">
+<section id="gkPageTop">
+<div class="gkPage">
+<a href="https://www.segs.com.br/" id="gkLogo">
+<img src="https://www.segs.com.br/images/barra/4vermOT19.png" alt="Segs - Portal Nacional|Clipp Notícias de Seguros,Saúde,Ti,Educação" />
+</a>
+<div id="gkMobileMenu">
+<i></i>
+</div>
+<div class="gkMainMenu">
+<nav id="gkExtraMenu" class="gkMenu">
+<ul class="gkmenu level0"><li class="first haschild active h1"><a href="https://www.segs.com.br/" class=" first haschild active h1" id="menu101" title="PORTAL NACIONAL - SEGS.com.br : O MUNDO DOS SEGUROS EM UM CLIQUE...">Home</a><div class="childcontent">
+<div class="childcontent-inner">
+<div class="gkcol gkcol1  first"><ul class="gkmenu level1"><li class="first"><a href="/2016/" target="_blank" class=" first" id="menu730" title="Home SEGS 2016">Home SEGS 2016</a></li><li><a href="/home/busca" id="menu515" title="Busca no Segs">Busca no Segs</a></li><li><a href="/home/contato-com-o-segs" target="_blank" id="menu139" title="Contato com o SEGS.com.br">Contato com o SEGS</a></li><li><a href="/home/enviar-release" id="menu963" title="Enviar Release para o SEGS">Enviar Release ao SEGS</a></li><li><a href="/home/entretenimento" id="menu837">Entretenimento</a></li><li><a href="/home/nossa-missao" id="menu404">Nossa Missão</a></li><li><a href="/home/publicidade-no-segs" target="_blank" id="menu405">Publicidade no Segs</a></li><li><a href="/home/quem-somos" id="menu838">Quem Somos?</a></li><li><a href="/home/termos-de-uso" id="menu839">Termos de Uso</a></li><li><a href="/home/novo-usuario" id="menu808" title="Para Jornalista - Novo Cadatro de Usuário - (Cadastro aprovado, será liberado em até 48 horas)">Novo Usuário</a></li><li><a href="/home/login" id="menu153" title="Para Jornalista - Login de Usuário ao Sistema">Login Usuário</a></li><li><a href="/home/username-reminder-request" id="menu157">Lembrar nome usuário</a></li><li><a href="/home/resetar-password" id="menu158">Resetar Password </a></li><li class="last"><a href="/home/receber-a-newsletter" class=" last" id="menu779" title="Cadastro para Receber NewsLetter de Seguros?">Receber a NewsLetter?</a></li></ul></div>
+</div>
+</div></li><li class="haschild"><a href="/seguros" class=" haschild" id="menu447" title="SEGS.com.br : O MUNDO DOS SEGUROS EM UM SÓ CLIQUE...">Seguros</a><div class="childcontent">
+<div class="childcontent-inner">
+<div class="gkcol gkcol1  first"><ul class="gkmenu level1"><li class="first"><a href="/seguros/cartilha-do-consumidor" class=" first" id="menu841">Cartilha do Consumidor</a></li><li><a href="/seguros/historia-do-seguro" id="menu842">História do Seguro</a></li><li><a href="/seguros/seguradoras-ouvidorias" id="menu843">Seguradoras Ouvidorias</a></li><li><a href="/seguros/capitalizacao" id="menu890">Capitalização</a></li><li><a href="/seguros/resseguros" id="menu895">Resseguros</a></li><li><a href="/seguros/seguro-condominio" id="menu893">Seguro Condomínio</a></li><li><a href="/seguros/seguro-empresarial" id="menu886">Seguro Empresarial</a></li><li><a href="/seguros/seguro-de-evento" id="menu892">Seguro de Evento</a></li><li><a href="/seguros/seguro-residencial" id="menu891">Seguro Residencial</a></li><li><a href="/seguros/seguro-saude" id="menu894">Seguro Saúde</a></li><li><a href="/seguros/seguro-de-transportes" id="menu889">Seguro de Transportes</a></li><li><a href="/seguros/seguro-de-veiculos" id="menu887">Seguro de Veículos</a></li><li><a href="/seguros/seguro-viagem" id="menu888">Seguro Viagem</a></li><li class="last"><a href="/seguros/seguro-de-vida" class=" last" id="menu885">Seguro de Vida</a></li></ul></div>
+</div>
+</div></li><li class="haschild"><a href="/saude" class=" haschild" id="menu448" title="Notícias da Categoria Saúde">Saúde</a><div class="childcontent">
+<div class="childcontent-inner">
+<div class="gkcol gkcol1  first"><ul class="gkmenu level1"><li class="first"><a href="/saude/consultar-planos-de-saude" class=" first" id="menu427">Consultar Saúde-Planos?</a></li><li><a href="/saude/consultar-reajuste" id="menu428">Consultar Reajuste?</a></li><li><a href="/saude/planos-suspensos" id="menu429">Planos Suspensos?</a></li><li><a href="/saude/portabilidade-saude" id="menu430">Portabilidade Saúde?</a></li><li class="last"><a href="/saude/saude-alimentos" class=" last" id="menu933">Saúde pelos Alimentos?</a></li></ul></div>
+</div>
+</div></li><li class="haschild"><a href="/veiculos" class=" haschild" id="menu260" title="Notícias da Categoria Veículos">Veículos</a><div class="childcontent">
+<div class="childcontent-inner">
+<div class="gkcol gkcol1  first"><ul class="gkmenu level1"><li class="first"><a href="/veiculos/alerta-de-roubo-prf" class=" first" id="menu436">Alerta de Roubo PRF?</a></li><li><a href="/veiculos/consultar-cnh" id="menu882">Consultar CNH?</a></li><li><a href="/veiculos/detran-sp" id="menu755" title="DENTRAN-SP - Link do Detran do Estado de São Paulo">Detran-SP</a></li><li><a href="/veiculos/veiculos-fabricantes" id="menu434">Veículos Fabricantes</a></li><li class="last"><a href="/veiculos/trafego-de-navios" class=" last" id="menu648">Tráfego de Navios</a></li></ul></div>
+</div>
+</div></li><li class="haschild"><a href="/info-ti" class=" haschild" id="menu262" title="Notícias da Categoria Informática & Ti">Info&amp;Ti</a><div class="childcontent">
+<div class="childcontent-inner">
+<div class="gkcol gkcol1  first"><ul class="gkmenu level1"><li class="first"><a href="/info-ti/browsers" class=" first" id="menu951" title="Novos Browsers Internet : Para uma Internet mais veloz e mais segura">Browsers Internet</a></li></ul></div>
+</div>
+</div></li><li><a href="/educacao" id="menu261" title="Notícias da Categoria Educação">Educação</a></li><li class="haschild"><a href="/eventos" class=" haschild" id="menu258" title="Notícias da Categoria Eventos">Eventos</a><div class="childcontent">
+<div class="childcontent-inner">
+<div class="gkcol gkcol1  first"><ul class="gkmenu level1"><li class="first"><a href="/eventos/galeria-de-eventos" class=" first" id="menu625">GALERIA DE EVENTOS</a></li><li><a href="/eventos/autoglass-conec-2018" id="menu1028">Autoglass - Conec2018</a></li><li><a href="/eventos/argo-seguros-conec-2018" id="menu1055">Argo Seguros - Conec2018</a></li><li><a href="/eventos/sompo-seguros-conec-2018" id="menu1056">Sompo Seguros-Conec2018</a></li><li class="last"><a href="/eventos/tokio-marine-conec-2018" class=" last" id="menu1057">Tokio Marine - Conec2018</a></li></ul></div>
+</div>
+</div></li><li><a href="/demais" id="menu257" title="Notícias da Categoria Demais">Demais</a></li><li class="haschild"><a href="https://www.segs.com.br/" class=" haschild" id="menu449" title="Mais Itens">Mais</a><div class="childcontent">
+<div class="childcontent-inner">
+<div class="gkcol gkcol1  first"><ul class="gkmenu level1"><li class="first"><a href="/mais/economia" class=" first" id="menu259" title="Notícias da Categoria Economia">Economia</a></li><li><a href="/mais/turismo-viagens" id="menu833" title="Notícias da Categoria Turismo">Turismo</a></li><li><a href="/mais/vagas" id="menu383" title="Categoria Vagas">Vagas</a></li><li><a href="/mais/frases" id="menu450" title="Categoria Frases">Frases</a></li><li><a href="/mais/mensagens" id="menu879" title="Categoria Mensagens">Mensagens</a></li><li><a href="/mais/piadas" id="menu452" title="Categoria Piadas">Piadas</a></li><li><a href="/mais/receitas" id="menu453" title="Categoria Receitas">Receitas</a></li><li><a href="/mais/segs-seo-link" target="_blank" id="menu729" title="Liberar Link em Matéria do SEGS">Liberar Link no SEGS</a></li><li><a href="/mais/publieditorial" target="_blank" id="menu728">PubliEditorial no SEGS</a></li><li><a href="/mais/tv-videos" id="menu454" title="TV & Vídeos">TV &amp; Vídeos</a></li><li class="last"><a href="/mais/weblinks" class=" last" id="menu901">Weblinks</a></li></ul></div>
+</div>
+</div></li><li class="haschild"><a href="https://www.segs.com.br" class=" haschild" id="menu865" title="SEGS ÚTEIS">Úteis</a><div class="childcontent">
+<div class="childcontent-inner">
+<div class="gkcol gkcol1  first"><ul class="gkmenu level1"><li class="first"><a href="/uteis/certidao-de-debitos" class=" first" id="menu1089">Certidão de Débitos - RFB?</a></li><li><a href="/uteis/consultar-cpf" id="menu867">Consultar CPF - RFB?</a></li><li><a href="/uteis/consultar-cnpj" id="menu868">Consultar CNPJ - RFB?</a></li><li><a href="/uteis/localizar-ip" id="menu870">Localizar IP?</a></li><li class="last"><a href="/uteis/bancos" class=" last" id="menu871">Bancos?</a></li></ul></div>
+</div>
+</div></li><li class="haschild"><a href="https://www.segs.com.br/" class=" haschild" id="menu601" title="Categoria VIP">VIP</a><div class="childcontent">
+<div class="childcontent-inner">
+<div class="gkcol gkcol1  first"><ul class="gkmenu level1"><li class="first"><a href="/vip/aig-seguros" class=" first" id="menu753" title="Aig Seguros">Aig Seguros</a></li><li><a href="/vip/argo" id="menu604">Argo Seguros</a></li><li><a href="/vip/autoglass" id="menu603">Autoglass</a></li><li><a href="/vip/sompo-seguros" id="menu602" title="SOMPO SEGUROS">Sompo Seguros</a></li><li><a href="/vip/tokio-marine" id="menu600" title="Tokio Marine Seguradora">Tokio Marine Seguradora</a></li><li class="last"><a href="/vip/tokio-marine-servicos" class=" last" id="menu1079">Tokio Marine Serviços</a></li></ul></div>
+</div>
+</div></li><li class="haschild"><a href="https://www.segs.com.br/" class=" haschild" id="menu659" title="SEGS.com.br : O MUNDO DOS SEGUROS EM UM CLIQUE...">News?</a><div class="childcontent">
+<div class="childcontent-inner">
+<div class="gkcol gkcol1  first"><ul class="gkmenu level1"><li class="first"><a href="/cadastrar-newsletter/receber-news" class=" first" id="menu844">Receber NewsLetter?</a></li><li class="last"><a href="/cadastrar-newsletter/clipping-segs-com-br" target="_blank" class=" last" id="menu608">NewsLetter Segs.com.br</a></li></ul></div>
+</div>
+</div></li><li class="last"><a href="/login" class=" last" id="menu665" title="Usuário Login">User</a></li></ul>
+</nav>
+</div>
+</div>
+</section>
+<section class="gkPage">
+<div id="gkHeader">
+<div class="box clear nomargin"><div class="gkNspPM gkNspPM-NewNewsHeader" id="nsp-186" data-layout="main_2rows_2rows"><div class="gkImagesWrapper"><div class="gkImage gkImage1"> <div class="gkImageArea" style="background-image: url('https://www.segs.com.br/media/k2/items/cache/8024bf91c49d3b420a2b7219bc288980_Generic.jpg');"></div> <h2 class="gkTitle"><a href="/seguros/157411-sompo-expande-programa-de-incentivo-que-passa-a-valer-tambem-para-vendas-do-seguro-saude">SOMPO expande Programa de Incentivo que passa a valer também para vendas do Seguro Saúde</a></h2></div><div class="gkImage gkImage2"> <div class="gkImageArea" style="background-image: url('https://www.segs.com.br/media/k2/items/cache/c6dcfbefe07cb9cbec1b44a73087b6b9_Generic.jpg');"></div> <h2 class="gkTitle"><a href="/seguros/157290-tokio-marine-e-instituto-futuro-bom-iniciam-campanha-de-arrecadacao-de-bolsas-de-estudo">TOKIO MARINE e Instituto Futuro Bom iniciam campanha de arrecadação de bolsas de estudo</a></h2></div><div class="gkImage gkImage3"> <div class="gkImageArea" style="background-image: url('https://www.segs.com.br/media/k2/items/cache/5fd58970fb469d1bea9a2967f3a89ceb_Generic.jpg');"></div> <h2 class="gkTitle"><a href="/seguros/157291-argo-seguros-e-pellon-associados-advocacia-realizam-palestra-sobre-responsabilidade-civil-d-o">ARGO SEGUROS e Pellon & Associados Advocacia realizam palestra sobre Responsabilidade Civil D&O </a></h2></div><div class="gkImage gkImage4"> <div class="gkImageArea" style="background-image: url('https://www.segs.com.br/media/k2/items/cache/bf1b6bd45e8e343d7c6b3c8e32f6760e_Generic.jpg');"></div> <h2 class="gkTitle"><a href="/seguros/157316-advogado-alerta-sobre-o-excesso-de-judicializacao-dos-contratos-de-seguros-de-riscos-pessoais">Advogado alerta sobre o excesso de judicialização dos contratos de Seguros de riscos pessoais</a></h2></div><div class="gkImage gkImage5"> <div class="gkImageArea" style="background-image: url('https://www.segs.com.br/media/k2/items/cache/4e60e5c902cda80f0239acf0dd90cd49_Generic.jpg');"></div> <h2 class="gkTitle"><a href="/seguros/157315-comissao-feminina-do-sincor-rj-realiza-4-encontro-com-corretoras">Comissão Feminina do Sincor-RJ realiza 4° encontro com corretoras</a></h2></div> <div class="gkBlankImage"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKAAAAB4CAYAAAB1ovlvAAAAYUlEQVR4nO3BgQAAAADDoPlTH+ECVQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwDcshwABSAg04AAAAABJRU5ErkJggg==" alt="" /> </div></div></div></div>
+</div>
+</section>
+<div id="gkPageContent" class="gkPage">
+<section id="gkContent">
+<div id="gkContentWrap">
+<section id="gkTop1" class="gkCols3">
+<div>
+<div class="box  gkmod-1 nomargin"><div class="content">
+<div class="custom">
+<p style="text-align: center;"><a title="TOKIO MARINE SEGURADORA" href="http://www.tokiomarine.com.br/auto-popular/?utm_source=trade-segs-600&amp;utm_medium=banner" target="_blank" rel="alternate noopener noreferrer"><img title="TOKIO MARINE SEGURADORA" src="/images/banners/tm050219-600x80.gif" alt="TOKIO MARINE SEGURADORA" width="600" height="80" /></a></p>
+</div>
+</div></div>
+</div>
+</section>
+<section id="gkTop2" class="gkCols3">
+<div>
+<div class="box  gkmod-1 nomargin"><div class="content"><div id="ty2udate313"><div style="margin:0px auto;width:auto;text-align:left;">Brasil, 18 de Fevereiro de 2019</div></div></div></div>
+</div>
+</section>
+<section id="gkMainbody">
+<div>
+<div class="box color bigtitle nomargin"><h1 class="header">Seguros::</h1><div class="content"> <div class="nspMain color bigtitle" id="nsp-nsp-216" data-config="{
+				'animation_speed': 400,
+				'animation_interval': 5000,
+				'animation_function': 'Fx.Transitions.Expo.easeIn',
+				'news_column': 3,
+				'news_rows': 12,
+				'links_columns_amount': 1,
+				'links_amount': 1
+			}">
+<div class="nspArts bottom" style="width:100%;">
+<div class="nspArtScroll1">
+<div class="nspArtScroll2 nspPages1">
+<div class="nspArtPage active nspCol1">
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;clear:both;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/seguros" target="_self">Seguros</a></p><a href="/seguros/157319-mongeral-aegon-premia-os-vencedores-da-campanha-galo-de-ouro-2018" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0 0 1.25rem 0;" target="_self"><img class="nspImage" src="https://www.segs.com.br/modules/mod_news_pro_gk5/cache/k2.items.cache.7dbfd9ac6dcf0e980d06698a517c968f_Genericnsp-216.jpg" alt="Mongeral Aegon premia os vencedores da campanha Galo de Ouro 2018" /></a><h4 class="nspHeader tleft fnull has-image"><a href="/seguros/157319-mongeral-aegon-premia-os-vencedores-da-campanha-galo-de-ouro-2018" title="Mongeral Aegon premia os vencedores da campanha Galo de Ouro 2018" target="_self">Mongeral Aegon premia os vencedores da campanha Galo de Ouro 2018</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/seguros" target="_self">Seguros</a></p><a href="/seguros/157432-jlt-analisa-o-impacto-das-lesoes-em-jogadores-da-premier-league" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0 0 1.25rem 0;" target="_self"><img class="nspImage" src="https://www.segs.com.br/modules/mod_news_pro_gk5/cache/k2.items.cache.055ed05466e7082c1ca9ed6074caee50_Genericnsp-216.jpg" alt="JLT analisa o impacto das lesões em jogadores da premier league" /></a><h4 class="nspHeader tleft fnull has-image"><a href="/seguros/157432-jlt-analisa-o-impacto-das-lesoes-em-jogadores-da-premier-league" title="JLT analisa o impacto das lesões em jogadores da premier league" target="_self">JLT analisa o impacto das lesões em jogadores da premier league</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/seguros" target="_self">Seguros</a></p><a href="/seguros/157386-agnaldo-abrahao-deixa-o-ita-seguro-viagem" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0 0 1.25rem 0;" target="_self"><img class="nspImage" src="https://www.segs.com.br/modules/mod_news_pro_gk5/cache/k2.items.cache.6fabb92a95e2674eb04d12d5d003a493_Genericnsp-216.jpg" alt="Agnaldo Abrahão deixa o ITA Seguro Viagem" /></a><h4 class="nspHeader tleft fnull has-image"><a href="/seguros/157386-agnaldo-abrahao-deixa-o-ita-seguro-viagem" title="Agnaldo Abrahão deixa o ITA Seguro Viagem" target="_self">Agnaldo Abrahão deixa o ITA Seguro Viagem</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;clear:both;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/seguros" target="_self">Seguros</a></p><h4 class="nspHeader tleft fnull"><a href="/seguros/157458-mds-brasil-anuncia-paulo-loureiro-como-diretor-de-filiais" title="MDS Brasil anuncia Paulo Loureiro como Diretor de Filiais" target="_self">MDS Brasil anuncia Paulo Loureiro como Diretor de Filiais</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/seguros" target="_self">Seguros</a></p><h4 class="nspHeader tleft fnull"><a href="/seguros/157439-confidence-cambio-oferece-novos-planos-de-seguro-viagem-em-parceria-com-allianz-travel" title="Confidence Câmbio oferece novos planos de Seguro Viagem em parceria com Allianz Travel" target="_self">Confidence Câmbio oferece novos planos de Seguro Viagem em parceria com Allianz Travel</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/seguros" target="_self">Seguros</a></p><h4 class="nspHeader tleft fnull"><a href="/seguros/157438-seguro-auto-o-que-fazer-apos-uma-colisao" title="Seguro auto: o que fazer após uma colisão" target="_self">Seguro auto: o que fazer após uma colisão</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;clear:both;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/seguros" target="_self">Seguros</a></p><h4 class="nspHeader tleft fnull"><a href="/seguros/157437-rede-de-franquias-investe-em-capacitacao-a-distancia-para-ter-resultados-ainda-mais-eficazes" title="Rede de franquias investe em capacitação a distância para ter resultados ainda mais eficazes" target="_self">Rede de franquias investe em capacitação a distância para ter resultados ainda mais eficazes</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/seguros" target="_self">Seguros</a></p><h4 class="nspHeader tleft fnull"><a href="/seguros/157436-rede-lojacorr-intensifica-parceria-comercial-com-a-mapfre-seguros" title="Rede Lojacorr intensifica parceria comercial com a   Seguros" target="_self">Rede Lojacorr intensifica parceria comercial com a Seguros</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/seguros" target="_self">Seguros</a></p><h4 class="nspHeader tleft fnull"><a href="/seguros/157434-aon-anuncia-seu-novo-vice-presidente-executivo-e-nova-estrutura-para-commercial-risk-solutions-no-brasil" title="Aon anuncia seu novo Vice-Presidente Executivo e nova estrutura para Commercial Risk Solutions no Brasil" target="_self">Aon anuncia seu novo Vice-Presidente Executivo e nova estrutura para Commercial Risk Solutions no Brasil</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;clear:both;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/seguros" target="_self">Seguros</a></p><h4 class="nspHeader tleft fnull"><a href="/seguros/157433-portal-sincor-rj-alcanca-a-marca-de-mil-corretores-cadastrados" title="Portal Sincor-RJ alcança a marca de mil corretores cadastrados" target="_self">Portal Sincor-RJ alcança a marca de mil corretores cadastrados</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/seguros" target="_self">Seguros</a></p><h4 class="nspHeader tleft fnull"><a href="/seguros/157431-manifesto-do-ccs-rj" title="Manifesto do CCS-RJ" target="_self">Manifesto do CCS-RJ</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/seguros" target="_self">Seguros</a></p><h4 class="nspHeader tleft fnull"><a href="/seguros/157427-promocao-da-april-brasil-garante-upgrades-nas-coberturas-de-seguro-viagem" title="Promoção da APRIL Brasil garante upgrades nas coberturas de seguro viagem" target="_self">Promoção da APRIL Brasil garante upgrades nas coberturas de seguro viagem</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;clear:both;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/seguros" target="_self">Seguros</a></p><h4 class="nspHeader tleft fnull"><a href="/seguros/157425-vice-presidente-da-fenacor-preve-crescimento" title="Vice-presidente da Fenacor prevê crescimento" target="_self">Vice-presidente da Fenacor prevê crescimento</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/seguros" target="_self">Seguros</a></p><h4 class="nspHeader tleft fnull"><a href="/seguros/157424-congrecor-programacao-ja-foi-definida" title="CONGRECOR: programação já foi definida" target="_self">CONGRECOR: programação já foi definida</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/seguros" target="_self">Seguros</a></p><h4 class="nspHeader tleft fnull"><a href="/seguros/157423-21-congresso-pacote-com-descontos-ate-28-02" title="21º Congresso: pacote com descontos até 28/02" target="_self">21º Congresso: pacote com descontos até 28/02</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;clear:both;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/seguros" target="_self">Seguros</a></p><h4 class="nspHeader tleft fnull"><a href="/seguros/157422-seguro-de-transporte-de-mercadoria-evita-que-empresarios-tenham-prejuizo" title="Seguro de transporte de mercadoria evita que empresários tenham prejuízo" target="_self">Seguro de transporte de mercadoria evita que empresários tenham prejuízo</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/seguros" target="_self">Seguros</a></p><h4 class="nspHeader tleft fnull"><a href="/seguros/157420-ens-promove-curso-de-especializacao-no-exterior-saiba-como-participar" title="ENS promove curso de especialização no exterior; saiba como participar" target="_self">ENS promove curso de especialização no exterior; saiba como participar</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/seguros" target="_self">Seguros</a></p><h4 class="nspHeader tleft fnull"><a href="/seguros/157419-chubb-nomeia-novo-head-de-travel-insurance-para-america-latina" title="Chubb nomeia novo Head de Travel Insurance para América Latina" target="_self">Chubb nomeia novo Head de Travel Insurance para América Latina</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;clear:both;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/seguros" target="_self">Seguros</a></p><h4 class="nspHeader tleft fnull"><a href="/seguros/157418-eventos-do-sindsegrs-2019" title="Eventos do SINDSEGRS – 2019" target="_self">Eventos do SINDSEGRS – 2019</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/seguros" target="_self">Seguros</a></p><h4 class="nspHeader tleft fnull"><a href="/seguros/157417-governo-estuda-aumento-no-subsidio-do-seguro-rural" title="Governo estuda aumento no subsídio do seguro rural" target="_self">Governo estuda aumento no subsídio do seguro rural</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/seguros" target="_self">Seguros</a></p><h4 class="nspHeader tleft fnull"><a href="/seguros/157416-sincor-sp-se-posiciona-contra-patrocinio-de-associacao-de-protecao-veicular-no-vasco" title="Sincor-SP se posiciona contra patrocínio de associação de proteção veicular no Vasco" target="_self">Sincor-SP se posiciona contra patrocínio de associação de proteção veicular no Vasco</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;clear:both;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/seguros" target="_self">Seguros</a></p><h4 class="nspHeader tleft fnull"><a href="/seguros/157415-ens-promove-curso-de-especializacao-no-exterior-saiba-como-participar" title="ENS Promove Curso de Especialização no Exterior; Saiba Como Participar" target="_self">ENS Promove Curso de Especialização no Exterior; Saiba Como Participar</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/seguros" target="_self">Seguros</a></p><h4 class="nspHeader tleft fnull"><a href="/seguros/157414-pf-investiga-fraude-envolvendo-corretora-de-seguros" title="PF Investiga Fraude Envolvendo Corretora de Seguros" target="_self">PF Investiga Fraude Envolvendo Corretora de Seguros</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/seguros" target="_self">Seguros</a></p><h4 class="nspHeader tleft fnull"><a href="/seguros/157457-tres-perguntas-para-eduardo-biavati-consultor-em-seguranca-no-transito-e-diretor-da-em-transito-consultoria" title="Três perguntas para Eduardo Biavati, consultor em segurança no trânsito e diretor da Em Trânsito Consultoria" target="_self">Três perguntas para Eduardo Biavati, consultor em segurança no trânsito e diretor da Em Trânsito Consultoria</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;clear:both;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/seguros" target="_self">Seguros</a></p><h4 class="nspHeader tleft fnull"><a href="/seguros/157455-promocao-pequeno-grande-motorista-chega-ao-fim" title="Promoção Pequeno Grande Motorista chega ao fim" target="_self">Promoção Pequeno Grande Motorista chega ao fim</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/seguros" target="_self">Seguros</a></p><h4 class="nspHeader tleft fnull"><a href="/seguros/157454-numero-de-bilhetes-processados-do-seguro-dpvat-bate-recorde-em-janeiro" title="Número de bilhetes processados do Seguro DPVAT bate recorde em janeiro" target="_self">Número de bilhetes processados do Seguro DPVAT bate recorde em janeiro</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/seguros" target="_self">Seguros</a></p><h4 class="nspHeader tleft fnull"><a href="/seguros/157413-stefanini-scala-marca-presenca-em-evento-mundial-de-inovacoes-e-tendencias-da-ibm" title="Stefanini Scala marca presença em evento mundial de inovações e tendências da IBM" target="_self">Stefanini Scala marca presença em evento mundial de inovações e tendências da IBM</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;clear:both;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/seguros" target="_self">Seguros</a></p><h4 class="nspHeader tleft fnull"><a href="/seguros/157404-empresas-usam-dados-e-midias-sociais-para-contratacao-de-funcionarios" title="Empresas usam dados e mídias sociais para contratação de funcionários" target="_self">Empresas usam dados e mídias sociais para contratação de funcionários</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/seguros" target="_self">Seguros</a></p><h4 class="nspHeader tleft fnull"><a href="/seguros/157402-tipos-de-inovacao-qual-a-melhor-estrategia-para-a-minha-empresa" title="Tipos de inovação: qual a melhor estratégia para a minha empresa?" target="_self">Tipos de inovação: qual a melhor estratégia para a minha empresa?</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/seguros" target="_self">Seguros</a></p><h4 class="nspHeader tleft fnull"><a href="/seguros/157401-advogado-e-demais-profissionais-irao-debater-sobre-todos-os-pontos-que-envolvem-morar-e-empreender-nos-estados-unidos-e-na-europa" title="Advogado e demais profissionais irão debater sobre todos os pontos que envolvem morar e empreender nos Estados Unidos e na Europa" target="_self">Advogado e demais profissionais irão debater sobre todos os pontos que envolvem morar e empreender nos Estados Unidos e na Europa</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;clear:both;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/seguros" target="_self">Seguros</a></p><h4 class="nspHeader tleft fnull"><a href="/seguros/157400-o-que-podemos-esperar-do-cenario-economico-brasileiro" title="O que podemos esperar do cenário econômico brasileiro" target="_self">O que podemos esperar do cenário econômico brasileiro</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/seguros" target="_self">Seguros</a></p><h4 class="nspHeader tleft fnull"><a href="/seguros/157399-um-novo-ciclo-de-otimismo-e-muito-trabalho-para-as-auditorias" title="Um novo ciclo de otimismo e muito trabalho para as auditorias" target="_self">Um novo ciclo de otimismo e muito trabalho para as auditorias</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/seguros" target="_self">Seguros</a></p><h4 class="nspHeader tleft fnull"><a href="/seguros/157398-ativos-dos-fundos-de-pensao-superam-r-900-bilhoes-e-rentabilidade-vai-a-12-13" title="Ativos dos fundos de pensão superam R$ 900 bilhões e rentabilidade vai a 12,13%" target="_self">Ativos dos fundos de pensão superam R$ 900 bilhões e rentabilidade vai a 12,13%</a></h4> </div>
+<div class="nspArt nspCol3 lastChild" style="padding:0 1rem 0.625rem 1rem;clear:both;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/seguros" target="_self">Seguros</a></p><h4 class="nspHeader tleft fnull"><a href="/seguros/157397-voce-sabe-como-otimizar-as-rotinas-de-departamento-pessoal" title="Você Sabe Como Otimizar as Rotinas de Departamento Pessoal?" target="_self">Você Sabe Como Otimizar as Rotinas de Departamento Pessoal?</a></h4> </div>
+<div class="nspArt nspCol3 lastChild" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/seguros" target="_self">Seguros</a></p><h4 class="nspHeader tleft fnull"><a href="/seguros/157396-sucesso-consistencia-e-frequencia" title="Sucesso: consistência e frequência" target="_self">Sucesso: consistência e frequência</a></h4> </div>
+<div class="nspArt nspCol3 lastChild" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/seguros" target="_self">Seguros</a></p><h4 class="nspHeader tleft fnull"><a href="/seguros/157394-mercado-de-franquias-se-adequa-a-novos-perfis-de-investidores-cada-vez-mais-jovens-e-dispostos-a-arriscar" title="Mercado de franquias se adequa a novos perfis de investidores: cada vez mais jovens e dispostos a arriscar" target="_self">Mercado de franquias se adequa a novos perfis de investidores: cada vez mais jovens e dispostos a arriscar</a></h4> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="nspLinksWrap bottom" style="width:99.9%;">
+<div class="nspLinks" style="margin:0;">
+<div class="nspLinkScroll1">
+<div class="nspLinkScroll2 nspPages1">
+<ul class="nspList active nspCol1">
+<li class="even"><h4><a href="/seguros/157393-tecnologia-e-curiosidade-sao-a-chave-do-sucesso-para-a-inovacao" title="Tecnologia e curiosidade são a chave do sucesso para a inovação" target="_self">Tecnologia e curiosidade são a chave do sucesso para a inovação</a></h4></li>
+</ul>
+</div>
+<a href="/seguros?start=43" class="readon-button">
+>>2ª página com mais Noticias de Seguros - Continuação...>> </a>
+</div>
+</div>
+</div>
+</div>
+</div></div><div class="box color bigtitle "><h3 class="header">Saúde::</h3><div class="content"> <div class="nspMain color bigtitle " id="nsp-nsp-214" data-config="{
+				'animation_speed': 400,
+				'animation_interval': 5000,
+				'animation_function': 'Fx.Transitions.Expo.easeIn',
+				'news_column': 3,
+				'news_rows': 4,
+				'links_columns_amount': 1,
+				'links_amount': 1
+			}">
+<div class="nspArts bottom" style="width:100%;">
+<div class="nspArtScroll1">
+<div class="nspArtScroll2 nspPages1">
+<div class="nspArtPage active nspCol1">
+<div class="nspArt nspCol3 nspFeatured" style="padding:0 1rem 0.625rem 1rem;clear:both;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/saude" target="_self">Saúde</a></p><a href="/saude/157300-e-book-traz-primeiros-socorros-de-vitimas-por-armas-de-fogo" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0 0 1.25rem 0;" target="_self"><img class="nspImage" src="https://www.segs.com.br/modules/mod_news_pro_gk5/cache/k2.items.cache.8ffd6ee68b38cc4001f8dcbbdaa10b31_Genericnsp-214.jpg" alt="E-book traz primeiros socorros de vítimas por armas de fogo" /></a><h4 class="nspHeader tleft fnull has-image"><a href="/saude/157300-e-book-traz-primeiros-socorros-de-vitimas-por-armas-de-fogo" title="E-book traz primeiros socorros de vítimas por armas de fogo" target="_self">E-book traz primeiros socorros de vítimas por armas de fogo</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/saude" target="_self">Saúde</a></p><a href="/saude/157298-cirurgiao-plastico-alerta-sobre-riscos-da-hidrolipo-em-consultorios-e-pede-nao-facam" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0 0 1.25rem 0;" target="_self"><img class="nspImage" src="https://www.segs.com.br/modules/mod_news_pro_gk5/cache/k2.items.cache.67088a6a909960963c7c1bf755b5c580_Genericnsp-214.jpg" alt="Cirurgião plástico alerta sobre riscos da hidrolipo em consultórios e pede: 'Não façam'" /></a><h4 class="nspHeader tleft fnull has-image"><a href="/saude/157298-cirurgiao-plastico-alerta-sobre-riscos-da-hidrolipo-em-consultorios-e-pede-nao-facam" title="Cirurgião plástico alerta sobre riscos da hidrolipo em consultórios e pede: 'Não façam'" target="_self">Cirurgião plástico alerta sobre riscos da hidrolipo em consultórios e pede: 'Não façam'</a></h4> </div>
+<div class="nspArt nspCol3 nspFeatured" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/saude" target="_self">Saúde</a></p><a href="/saude/157297-dores-nos-membros-inferiores-sao-mais-comuns-no-carnaval" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0 0 1.25rem 0;" target="_self"><img class="nspImage" src="https://www.segs.com.br/modules/mod_news_pro_gk5/cache/k2.items.cache.0f81fb7433e2e29bf0a7e1693a153c10_Genericnsp-214.jpg" alt="Dores nos membros inferiores são mais comuns no Carnaval" /></a><h4 class="nspHeader tleft fnull has-image"><a href="/saude/157297-dores-nos-membros-inferiores-sao-mais-comuns-no-carnaval" title="Dores nos membros inferiores são mais comuns no Carnaval" target="_self">Dores nos membros inferiores são mais comuns no Carnaval</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;clear:both;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/saude" target="_self">Saúde</a></p><h4 class="nspHeader tleft fnull"><a href="/saude/157341-saude-alerta-para-vacinacao-contra-febre-amarela-no-pre-carnaval" title="Saúde alerta para vacinação contra febre amarela no pré-Carnaval" target="_self">Saúde alerta para vacinação contra febre amarela no pré-Carnaval</a></h4>  </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/saude" target="_self">Saúde</a></p><h4 class="nspHeader tleft fnull"><a href="/saude/157337-volta-as-aulas-e-oportunidade-para-reforcar-a-vacinacao-contra-o-hpv" title="Volta às aulas é oportunidade para reforçar a vacinação contra o HPV" target="_self">Volta às aulas é oportunidade para reforçar a vacinação contra o HPV</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/saude" target="_self">Saúde</a></p><h4 class="nspHeader tleft fnull"><a href="/saude/157331-volta-as-aulas-como-escolher-a-mochila-para-nao-ter-problemas-na-coluna" title="Volta às aulas: como escolher a mochila para não ter problemas na coluna" target="_self">Volta às aulas: como escolher a mochila para não ter problemas na coluna</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;clear:both;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/saude" target="_self">Saúde</a></p><h4 class="nspHeader tleft fnull"><a href="/saude/157329-volta-as-aulas-meu-filho-e-celiaco-e-agora" title="Volta às aulas: meu filho é celíaco e agora?" target="_self">Volta às aulas: meu filho é celíaco e agora?</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/saude" target="_self">Saúde</a></p><h4 class="nspHeader tleft fnull"><a href="/saude/157328-uso-errado-de-oculos-de-sol-aumenta-risco-de-doencas-e-ate-de-cegueira" title="Uso errado de óculos de sol aumenta risco de doenças e até de cegueira" target="_self">Uso errado de óculos de sol aumenta risco de doenças e até de cegueira</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/saude" target="_self">Saúde</a></p><h4 class="nspHeader tleft fnull"><a href="/saude/157327-instituto-de-oncologia-do-parana-conquista-nivel-2-da-acreditacao-hospitalar" title="Instituto de Oncologia do Paraná conquista Nível 2 da Acreditação Hospitalar" target="_self">Instituto de Oncologia do Paraná conquista Nível 2 da Acreditação Hospitalar</a></h4> </div>
+<div class="nspArt nspCol3 lastChild" style="padding:0 1rem 0.625rem 1rem;clear:both;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/saude" target="_self">Saúde</a></p><h4 class="nspHeader tleft fnull"><a href="/saude/157326-semana-nacional-de-combate-ao-alcoolismo" title="Semana Nacional de Combate ao Alcoolismo" target="_self">Semana Nacional de Combate ao Alcoolismo</a></h4> </div>
+<div class="nspArt nspCol3 lastChild" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/saude" target="_self">Saúde</a></p><h4 class="nspHeader tleft fnull"><a href="/saude/157325-nutricionista-alerta-sobre-a-importancia-do-cafe-da-manha" title="Nutricionista alerta sobre a importância do café da manhã" target="_self">Nutricionista alerta sobre a importância do café da manhã</a></h4> </div>
+<div class="nspArt nspCol3 lastChild" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/saude" target="_self">Saúde</a></p><h4 class="nspHeader tleft fnull"><a href="/saude/157324-urgente-todos-devem-tratar-imediatamente-a-hepatite-c" title="URGENTE: Todos devem tratar imediatamente a hepatite C" target="_self">URGENTE: Todos devem tratar imediatamente a hepatite C</a></h4> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="nspLinksWrap bottom" style="width:99.9%;">
+<div class="nspLinks" style="margin:0;">
+<div class="nspLinkScroll1">
+<div class="nspLinkScroll2 nspPages1">
+<ul class="nspList active nspCol1">
+<li class="even"><h4><a href="/saude/157323-aplicacao-das-terapias-integrativas-em-pacientes-oncologicos-e-tema-do-programa-iop-orienta" title="Aplicação das terapias integrativas em pacientes oncológicos é tema do programa IOP Orienta" target="_self">Aplicação das terapias integrativas em pacientes oncológicos é tema do programa IOP Orienta</a></h4></li>
+</ul>
+</div>
+<a href="/saude?start=13" class="readon-button">
+>> 2ª página com mais Notícias de Saúde - Continuação...>> </a>
+</div>
+</div>
+</div>
+</div>
+</div></div><div class="box color bigtitle "><h3 class="header">Veículos::</h3><div class="content"> <div class="nspMain color bigtitle " id="nsp-nsp-192" data-config="{
+				'animation_speed': 400,
+				'animation_interval': 5000,
+				'animation_function': 'Fx.Transitions.Expo.easeIn',
+				'news_column': 3,
+				'news_rows': 4,
+				'links_columns_amount': 1,
+				'links_amount': 1
+			}">
+<div class="nspArts bottom" style="width:100%;">
+<div class="nspArtScroll1">
+<div class="nspArtScroll2 nspPages1">
+<div class="nspArtPage active nspCol1">
+<div class="nspArt nspCol3 nspFeatured" style="padding:0 1rem 0.625rem 1rem;clear:both;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/veiculos" target="_self">Veículos</a></p><a href="/veiculos/157304-formula-e-entra-em-uma-nova-era-com-a-tecnologia-da-schaeffler" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0 0 1.25rem 0;" target="_self"><img class="nspImage" src="https://www.segs.com.br/modules/mod_news_pro_gk5/cache/k2.items.cache.6e6526db264669144344433969a4c043_Genericnsp-192.jpg" alt="Formula E entra em uma nova era com a tecnologia da Schaeffler" /></a><h4 class="nspHeader tleft fnull has-image"><a href="/veiculos/157304-formula-e-entra-em-uma-nova-era-com-a-tecnologia-da-schaeffler" title="Formula E entra em uma nova era com a tecnologia da Schaeffler" target="_self">Formula E entra em uma nova era com a tecnologia da Schaeffler</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/veiculos" target="_self">Veículos</a></p><a href="/veiculos/157302-audi-e-airbus-lancam-servico-premium-de-mobilidade-urbana-em-sao-paulo" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0 0 1.25rem 0;" target="_self"><img class="nspImage" src="https://www.segs.com.br/modules/mod_news_pro_gk5/cache/k2.items.cache.e3362143cea19dffcbedbe7a9488e1af_Genericnsp-192.jpg" alt="Audi e Airbus lançam serviço premium de mobilidade urbana em São Paulo" /></a><h4 class="nspHeader tleft fnull has-image"><a href="/veiculos/157302-audi-e-airbus-lancam-servico-premium-de-mobilidade-urbana-em-sao-paulo" title="Audi e Airbus lançam serviço premium de mobilidade urbana em São Paulo" target="_self">Audi e Airbus lançam serviço premium de mobilidade urbana em São Paulo</a></h4> </div>
+<div class="nspArt nspCol3 nspFeatured" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/veiculos" target="_self">Veículos</a></p><a href="/veiculos/157307-daimler-trucks-bate-recorde-de-vendas-em-2018" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0 0 1.25rem 0;" target="_self"><img class="nspImage" src="https://www.segs.com.br/modules/mod_news_pro_gk5/cache/k2.items.cache.de09385e75f914394c4df27f9fff4f3c_Genericnsp-192.jpg" alt="Daimler Trucks bate recorde de vendas em 2018" /></a><h4 class="nspHeader tleft fnull has-image"><a href="/veiculos/157307-daimler-trucks-bate-recorde-de-vendas-em-2018" title="Daimler Trucks bate recorde de vendas em 2018" target="_self">Daimler Trucks bate recorde de vendas em 2018</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;clear:both;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/veiculos" target="_self">Veículos</a></p><h4 class="nspHeader tleft fnull"><a href="/veiculos/157464-nakata-se-prepara-para-a-automec-2019-e-seleciona-novidades-em-produtos-e-servicos" title="Nakata se prepara para a Automec 2019 e seleciona novidades em produtos e serviços" target="_self">Nakata se prepara para a Automec 2019 e seleciona novidades em produtos e serviços</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/veiculos" target="_self">Veículos</a></p><h4 class="nspHeader tleft fnull"><a href="/veiculos/157463-pirelli-formula-1-o-que-ha-de-novo-nos-pneus-em-2019" title="Pirelli Fórmula 1: o que há de novo nos pneus em 2019?" target="_self">Pirelli Fórmula 1: o que há de novo nos pneus em 2019?</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/veiculos" target="_self">Veículos</a></p><h4 class="nspHeader tleft fnull"><a href="/veiculos/157459-paccar-obtem-receita-anual-e-lucro-liquido-recordes" title="PACCAR obtém receita anual e lucro líquido recordes." target="_self">PACCAR obtém receita anual e lucro líquido recordes.</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;clear:both;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/veiculos" target="_self">Veículos</a></p><h4 class="nspHeader tleft fnull"><a href="/veiculos/157456-vitoria-para-a-audi-lucas-di-grassi-vence-no-mexico" title="Vitória para a Audi: Lucas di Grassi vence no México" target="_self">Vitória para a Audi: Lucas di Grassi vence no México</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/veiculos" target="_self">Veículos</a></p><h4 class="nspHeader tleft fnull"><a href="/veiculos/157453-laquila-anuncia-os-novos-bicos-de-injecao-eletronica-da-marca-condor" title="Laquila anuncia os novos bicos de Injeção Eletrônica da marca Condor" target="_self">Laquila anuncia os novos bicos de Injeção Eletrônica da marca Condor</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/veiculos" target="_self">Veículos</a></p><h4 class="nspHeader tleft fnull"><a href="/veiculos/157452-sonha-em-ter-um-esportivo-confira-as-versoes-que-menos-depreciam-ate-r-200-mil" title="Sonha em ter um esportivo? Confira as versões que menos depreciam até R$ 200 mil" target="_self">Sonha em ter um esportivo? Confira as versões que menos depreciam até R$ 200 mil</a></h4> </div>
+<div class="nspArt nspCol3 lastChild" style="padding:0 1rem 0.625rem 1rem;clear:both;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/veiculos" target="_self">Veículos</a></p><h4 class="nspHeader tleft fnull"><a href="/veiculos/157449-especialista-da-dicas-de-como-saber-quanto-vale-o-carro-usado-na-hora-da-venda" title="Especialista dá dicas de como saber quanto vale o carro usado na hora da venda" target="_self">Especialista dá dicas de como saber quanto vale o carro usado na hora da venda</a></h4> </div>
+<div class="nspArt nspCol3 lastChild" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/veiculos" target="_self">Veículos</a></p><h4 class="nspHeader tleft fnull"><a href="/veiculos/157447-pacer-logistica-inicia-operacao-de-transporte-de-redes-de-telecomunicacoes-para-a-tim-em-todo-o-brasil" title="Pacer Logística inicia operação de transporte de redes de telecomunicações para a TIM em todo o Brasil" target="_self">Pacer Logística inicia operação de transporte de redes de telecomunicações para a TIM em todo o Brasil</a></h4> </div>
+<div class="nspArt nspCol3 lastChild" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/veiculos" target="_self">Veículos</a></p><h4 class="nspHeader tleft fnull"><a href="/veiculos/157446-val-de-cans-ganha-avaliacoes-positivas-em-pesquisa-de-satisfacao-do-passageiro" title="Val-de-Cans ganha avaliações positivas em pesquisa de satisfação do passageiro." target="_self">Val-de-Cans ganha avaliações positivas em pesquisa de satisfação do passageiro.</a></h4> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="nspLinksWrap bottom" style="width:99.9%;">
+<div class="nspLinks" style="margin:0;">
+<div class="nspLinkScroll1">
+<div class="nspLinkScroll2 nspPages1">
+<ul class="nspList active nspCol1">
+<li class="even"><h4><a href="/veiculos/157444-solucoes-para-o-caos-da-saida-escolar-serao-apresentadas-na-edtech-conference-2019" title="Soluções para o caos da saída escolar serão apresentadas na EdTech Conference 2019" target="_self">Soluções para o caos da saída escolar serão apresentadas na EdTech Conference 2019</a></h4></li>
+</ul>
+</div>
+<a href="/veiculos?start=13" class="readon-button">
+>> 2ª página com mais Noticias de Veiculos - Continuação...>> </a>
+</div>
+</div>
+</div>
+</div>
+</div></div><div class="box color bigtitle "><h3 class="header">Info & Ti::</h3><div class="content"> <div class="nspMain color bigtitle " id="nsp-nsp-215" data-config="{
+				'animation_speed': 400,
+				'animation_interval': 5000,
+				'animation_function': 'Fx.Transitions.Expo.easeIn',
+				'news_column': 3,
+				'news_rows': 4,
+				'links_columns_amount': 1,
+				'links_amount': 1
+			}">
+<div class="nspArts bottom" style="width:100%;">
+<div class="nspArtScroll1">
+<div class="nspArtScroll2 nspPages1">
+<div class="nspArtPage active nspCol1">
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;clear:both;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/info-ti" target="_self">Info & Ti</a></p><a href="/info-ti/157299-schneider-electric-lanca-novo-inversor-de-frequencia-altivar-process-modular" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0 0 1.25rem 0;" target="_self"><img class="nspImage" src="https://www.segs.com.br/modules/mod_news_pro_gk5/cache/k2.items.cache.e3ba8fec7ec8715b0388ec0a243b5a7c_Genericnsp-215.jpg" alt="Schneider Electric lança novo inversor de frequência Altivar™ Process Modular" /></a><h4 class="nspHeader tleft fnull has-image"><a href="/info-ti/157299-schneider-electric-lanca-novo-inversor-de-frequencia-altivar-process-modular" title="Schneider Electric lança novo inversor de frequência Altivar™ Process Modular" target="_self">Schneider Electric lança novo inversor de frequência Altivar™ Process Modular</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/info-ti" target="_self">Info & Ti</a></p><a href="/info-ti/157303-programa-conexao-startup-brasil-promove-laboratorio-de-modelagem" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0 0 1.25rem 0;" target="_self"><img class="nspImage" src="https://www.segs.com.br/modules/mod_news_pro_gk5/cache/k2.items.cache.df1cd53386739680b72ae81bca9640f5_Genericnsp-215.jpg" alt="Programa Conexão Startup Brasil promove Laboratório de Modelagem" /></a><h4 class="nspHeader tleft fnull has-image"><a href="/info-ti/157303-programa-conexao-startup-brasil-promove-laboratorio-de-modelagem" title="Programa Conexão Startup Brasil promove Laboratório de Modelagem" target="_self">Programa Conexão Startup Brasil promove Laboratório de Modelagem</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/info-ti" target="_self">Info & Ti</a></p><a href="/info-ti/157296-policia-federal-certifica-aplicativo-biptt-para-comunicacao-no-setor-de-seguranca-privada" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0 0 1.25rem 0;" target="_self"><img class="nspImage" src="https://www.segs.com.br/modules/mod_news_pro_gk5/cache/k2.items.cache.469d5e818a87b3e2e6fbd38fbd25c923_Genericnsp-215.jpg" alt="Polícia Federal certifica aplicativo BiPTT para comunicação no setor de segurança privada" /></a><h4 class="nspHeader tleft fnull has-image"><a href="/info-ti/157296-policia-federal-certifica-aplicativo-biptt-para-comunicacao-no-setor-de-seguranca-privada" title="Polícia Federal certifica aplicativo BiPTT para comunicação no setor de segurança privada" target="_self">Polícia Federal certifica aplicativo BiPTT para comunicação no setor de segurança privada</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;clear:both;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/info-ti" target="_self">Info & Ti</a></p><h4 class="nspHeader tleft fnull"><a href="/info-ti/157473-mob-leva-brasileiros-para-conhecerem-empresas-de-games-do-japao" title="Mob leva brasileiros para conhecerem empresas de games do Japão" target="_self">Mob leva brasileiros para conhecerem empresas de games do Japão</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/info-ti" target="_self">Info & Ti</a></p><h4 class="nspHeader tleft fnull"><a href="/info-ti/157472-quatro-tendencias-que-provavelmente-farao-sucesso-no-mwc-2019" title="Quatro tendências que provavelmente farão sucesso no MWC 2019" target="_self">Quatro tendências que provavelmente farão sucesso no MWC 2019</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/info-ti" target="_self">Info & Ti</a></p><h4 class="nspHeader tleft fnull"><a href="/info-ti/157471-totvs-fecha-2018-com-retomada-da-aceleracao-de-crescimento-na-receita-de-software" title="TOTVS fecha 2018 com retomada da aceleração de crescimento na Receita de Software" target="_self">TOTVS fecha 2018 com retomada da aceleração de crescimento na Receita de Software</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;clear:both;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/info-ti" target="_self">Info & Ti</a></p><h4 class="nspHeader tleft fnull"><a href="/info-ti/157470-scanner-3d-multitarefas-e-100-portatil-e-novidade-no-mercado" title="Scanner 3D multitarefas e 100% portátil é novidade no mercado" target="_self">Scanner 3D multitarefas e 100% portátil é novidade no mercado</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/info-ti" target="_self">Info & Ti</a></p><h4 class="nspHeader tleft fnull"><a href="/info-ti/157469-otimismo-da-industria-de-alimentos-gera-mais-interesse-por-espacos-da-fispal-tecnologia" title="Otimismo da Indústria de Alimentos Gera Mais Interesse Por Espaços Da Fispal Tecnologia" target="_self">Otimismo da Indústria de Alimentos Gera Mais Interesse Por Espaços Da Fispal Tecnologia</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/info-ti" target="_self">Info & Ti</a></p><h4 class="nspHeader tleft fnull"><a href="/info-ti/157468-lg-lugar-de-gente-e-reconhecida-como-uma-das-melhores-fornecedoras-para-rh" title="LG lugar de gente é reconhecida como uma das melhores fornecedoras para RH" target="_self">LG lugar de gente é reconhecida como uma das melhores fornecedoras para RH</a></h4> </div>
+<div class="nspArt nspCol3 lastChild" style="padding:0 1rem 0.625rem 1rem;clear:both;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/info-ti" target="_self">Info & Ti</a></p><h4 class="nspHeader tleft fnull"><a href="/info-ti/157467-alta-no-comercio-eletronico-incentiva-criacao-de-novo-curso" title="Alta no comércio eletrônico incentiva criação de novo curso" target="_self">Alta no comércio eletrônico incentiva criação de novo curso</a></h4> </div>
+<div class="nspArt nspCol3 lastChild" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/info-ti" target="_self">Info & Ti</a></p><h4 class="nspHeader tleft fnull"><a href="/info-ti/157466-por-que-a-convergencia-entre-ti-e-ot-pode-significar-o-caos-dos-operadores-industriais" title="Por que a convergência entre TI e OT pode significar o caos dos operadores industriais?" target="_self">Por que a convergência entre TI e OT pode significar o caos dos operadores industriais?</a></h4> </div>
+<div class="nspArt nspCol3 lastChild" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/info-ti" target="_self">Info & Ti</a></p><h4 class="nspHeader tleft fnull"><a href="/info-ti/157465-tendencias-de-tecnologia-para-empresas-em-2019" title="Tendências de tecnologia para empresas em 2019" target="_self">Tendências de tecnologia para empresas em 2019</a></h4> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="nspLinksWrap bottom" style="width:99.9%;">
+<div class="nspLinks" style="margin:0;">
+<div class="nspLinkScroll1">
+<div class="nspLinkScroll2 nspPages1">
+<ul class="nspList active nspCol1">
+<li class="even"><h4><a href="/info-ti/157462-asg-technologies-anuncia-solucao-que-acelera-a-identificacao-automatizada-de-dados-pessoais-em-todo-o-ambiente-da-empresa" title="ASG Technologies anuncia solução que acelera a identificação automatizada de dados pessoais em todo o ambiente da empresa" target="_self">ASG Technologies anuncia solução que acelera a identificação automatizada de dados pessoais em todo o ambiente da empresa</a></h4></li>
+</ul>
+</div>
+<a href="/info-ti?start=13   " class="readon-button">
+>> 2ª página com mais Notícias de Info & Ti - Continuação...>> </a>
+</div>
+</div>
+</div>
+</div>
+</div></div><div class="box color bigtitle "><h3 class="header">Eventos::</h3><div class="content"> <div class="nspMain color bigtitle " id="nsp-nsp-246" data-config="{
+				'animation_speed': 400,
+				'animation_interval': 5000,
+				'animation_function': 'Fx.Transitions.Expo.easeIn',
+				'news_column': 3,
+				'news_rows': 3,
+				'links_columns_amount': 1,
+				'links_amount': 1
+			}">
+<div class="nspArts bottom" style="width:100%;">
+<div class="nspArtScroll1">
+<div class="nspArtScroll2 nspPages1">
+<div class="nspArtPage active nspCol1">
+<div class="nspArt nspCol3" style="padding:1.25rem 0.5rem  0;clear:both;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/eventos" target="_self">Eventos</a></p><a href="/eventos/157306-nova-versao-do-classico-de-chico-buarque-e-paulo-pontes-gota-d-agua-a-seco-chega-a-curitiba" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0 0 1.25rem 0;" target="_self"><img class="nspImage" src="https://www.segs.com.br/modules/mod_news_pro_gk5/cache/k2.items.cache.1f3128e7d4b5e1c9a29734958749c680_Genericnsp-246.jpg" alt="Nova versão do clássico de Chico Buarque e Paulo Pontes, Gota D’Água [a seco], chega a Curitiba" /></a><h4 class="nspHeader tleft fnull has-image"><a href="/eventos/157306-nova-versao-do-classico-de-chico-buarque-e-paulo-pontes-gota-d-agua-a-seco-chega-a-curitiba" title="Nova versão do clássico de Chico Buarque e Paulo Pontes, Gota D’Água [a seco], chega a Curitiba" target="_self">Nova versão do clássico de Chico Buarque e Paulo Pontes, Gota D’Água [a seco], chega a Curitiba</a></h4> </div>
+<div class="nspArt nspCol3 nspFeatured" style="padding:1.25rem 0.5rem  0;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/eventos" target="_self">Eventos</a></p><a href="/eventos/157305-leo-maier-faz-show-na-cafeteria-especial-em-blumenau-neste-sabado" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0 0 1.25rem 0;" target="_self"><img class="nspImage" src="https://www.segs.com.br/modules/mod_news_pro_gk5/cache/k2.items.cache.5cbb08529befdebcc50cebdb4b67d0aa_Genericnsp-246.jpg" alt="Leo Maier faz show na Cafeteria Especial, em Blumenau, neste sábado" /></a><h4 class="nspHeader tleft fnull has-image"><a href="/eventos/157305-leo-maier-faz-show-na-cafeteria-especial-em-blumenau-neste-sabado" title="Leo Maier faz show na Cafeteria Especial, em Blumenau, neste sábado" target="_self">Leo Maier faz show na Cafeteria Especial, em Blumenau, neste sábado</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:1.25rem 0.5rem  0;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/eventos" target="_self">Eventos</a></p><a href="/eventos/157308-sao-paulo-companhia-de-danca-retorna-a-mongagua-para-duas-apresentacoes-no-centro-cultural-raul-cortez" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0 0 1.25rem 0;" target="_self"><img class="nspImage" src="https://www.segs.com.br/modules/mod_news_pro_gk5/cache/k2.items.cache.6793fbb5823cb637417c9d56b1c2fc43_Genericnsp-246.jpg" alt="São Paulo Companhia de Dança retorna à Mongaguá para duas apresentações no Centro Cultural Raul Cortez" /></a><h4 class="nspHeader tleft fnull has-image"><a href="/eventos/157308-sao-paulo-companhia-de-danca-retorna-a-mongagua-para-duas-apresentacoes-no-centro-cultural-raul-cortez" title="São Paulo Companhia de Dança retorna à Mongaguá para duas apresentações no Centro Cultural Raul Cortez" target="_self">São Paulo Companhia de Dança retorna à Mongaguá para duas apresentações no Centro Cultural Raul Cortez</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:1.25rem 0.5rem  0;clear:both;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/eventos" target="_self">Eventos</a></p><h4 class="nspHeader tleft fnull"><a href="/eventos/157412-fim-de-semana-com-muita-danca-no-mar" title="Fim de semana com muita dança no MAR" target="_self">Fim de semana com muita dança no MAR</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:1.25rem 0.5rem  0;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/eventos" target="_self">Eventos</a></p><h4 class="nspHeader tleft fnull"><a href="/eventos/157410-feira-de-sabores-e-ponto-de-encontro-a-vila-verde-esta-de-volta" title="Feira de sabores e ponto de encontro: a Vila Verde está de volta" target="_self">Feira de sabores e ponto de encontro: a Vila Verde está de volta</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:1.25rem 0.5rem  0;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/eventos" target="_self">Eventos</a></p><h4 class="nspHeader tleft fnull"><a href="/eventos/157409-shopping-vila-olimpia-divulga-programacao-de-carnaval-do-tardes-no-terraco" title="Shopping Vila Olímpia divulga programação de Carnaval do &quot;Tardes no Terraço&quot;" target="_self">Shopping Vila Olímpia divulga programação de Carnaval do &quot;Tardes no Terraço&quot;</a></h4> </div>
+<div class="nspArt nspCol3 lastChild" style="padding:1.25rem 0.5rem  0;clear:both;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/eventos" target="_self">Eventos</a></p><h4 class="nspHeader tleft fnull"><a href="/eventos/157408-sucesso-no-youtube-fafa-conta-historias-se-apresenta-no-shopping-estacao" title="Sucesso no YouTube, Fafá conta histórias se apresenta no Shopping Estação" target="_self">Sucesso no YouTube, Fafá conta histórias se apresenta no Shopping Estação</a></h4> </div>
+<div class="nspArt nspCol3 lastChild" style="padding:1.25rem 0.5rem  0;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/eventos" target="_self">Eventos</a></p><h4 class="nspHeader tleft fnull"><a href="/eventos/157407-segue-ate-domingo-a-2-exposicao-de-carros-antigos-do-jundiaishopping" title="Segue até domingo a 2ª Exposição de Carros Antigos do JundiaíShopping" target="_self">Segue até domingo a 2ª Exposição de Carros Antigos do JundiaíShopping</a></h4> </div>
+<div class="nspArt nspCol3 lastChild" style="padding:1.25rem 0.5rem  0;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/eventos" target="_self">Eventos</a></p><h4 class="nspHeader tleft fnull"><a href="/eventos/157406-baile-da-revanche-com-bruna-caram-e-marina-de-la-riva-quinta-21-de-fevereiro-na-casa-natura-musical" title="Baile da Revanche, com Bruna Caram e Marina de la Riva, quinta, 21 de fevereiro, na Casa Natura Musical" target="_self">Baile da Revanche, com Bruna Caram e Marina de la Riva, quinta, 21 de fevereiro, na Casa Natura Musical</a></h4> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="nspLinksWrap bottom" style="width:99.9%;">
+<div class="nspLinks" style="margin:0;">
+<div class="nspLinkScroll1">
+<div class="nspLinkScroll2 nspPages1">
+<ul class="nspList active nspCol1">
+<li class="even"><h4><a href="/eventos/157405-1-tattoo-experience-campinas-oferece-tatuagens-gratuitas-para-mulheres-com-cancer" title="1ª Tattoo Experience Campinas oferece tatuagens gratuitas para mulheres com câncer" target="_self">1ª Tattoo Experience Campinas oferece tatuagens gratuitas para mulheres com câncer</a></h4></li>
+</ul>
+</div>
+<a href="/eventos?start=17" class="readon-button">
+>> 2ª página com mais Noticias de Eventos - Continuação...>> </a>
+</div>
+</div>
+</div>
+</div>
+</div></div><div class="box color bigtitle"><h3 class="header">Demais Notícias::</h3><div class="content"> <div class="nspMain color bigtitle" id="nsp-nsp-193" data-config="{
+				'animation_speed': 400,
+				'animation_interval': 5000,
+				'animation_function': 'Fx.Transitions.Expo.easeIn',
+				'news_column': 3,
+				'news_rows': 12,
+				'links_columns_amount': 1,
+				'links_amount': 1
+			}">
+<div class="nspArts bottom" style="width:100%;">
+<div class="nspArtScroll1">
+<div class="nspArtScroll2 nspPages1">
+<div class="nspArtPage active nspCol1">
+<div class="nspArt nspCol3 nspFeatured" style="padding:0 1rem 0.625rem 1rem;clear:both;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/demais" target="_self">Demais</a></p><a href="/demais/157309-glitter-e-strass-nas-sobrancelhas-veja-como-arrasar-com-a-make-na-folia" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0 0 1.25rem 0;" target="_self"><img class="nspImage" src="https://www.segs.com.br/modules/mod_news_pro_gk5/cache/k2.items.cache.f4d707a576e4ad9ae7391d8bacb96181_Genericnsp-193.jpg" alt="Glitter e strass nas sobrancelhas: Veja como arrasar com a make na folia" /></a><h4 class="nspHeader tleft fnull has-image"><a href="/demais/157309-glitter-e-strass-nas-sobrancelhas-veja-como-arrasar-com-a-make-na-folia" title="Glitter e strass nas sobrancelhas: Veja como arrasar com a make na folia" target="_self">Glitter e strass nas sobrancelhas: Veja como arrasar com a make na folia</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/demais" target="_self">Demais</a></p><a href="/demais/157311-arezzo-produzira-na-fabrica-conceito-2019-tenis-casual-com-tecnologias-inovadoras-de-fabricacao-e-de-conforto" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0 0 1.25rem 0;" target="_self"><img class="nspImage" src="https://www.segs.com.br/modules/mod_news_pro_gk5/cache/k2.items.cache.6a564dc4d7d3953f5c0d19d7938fbce0_Genericnsp-193.jpg" alt="Arezzo produzirá na Fábrica Conceito 2019 tênis casual com tecnologias inovadoras de fabricação e de conforto" /></a><h4 class="nspHeader tleft fnull has-image"><a href="/demais/157311-arezzo-produzira-na-fabrica-conceito-2019-tenis-casual-com-tecnologias-inovadoras-de-fabricacao-e-de-conforto" title="Arezzo produzirá na Fábrica Conceito 2019 tênis casual com tecnologias inovadoras de fabricação e de conforto" target="_self">Arezzo produzirá na Fábrica Conceito 2019 tênis casual com tecnologias inovadoras de fabricação e de conforto</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/demais" target="_self">Demais</a></p><a href="/demais/157310-dia-do-imigrante-italiano-pesquisa-aponta-que-a-culinaria-italiana-e-a-mais-querida-pelos-brasileiros" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0 0 1.25rem 0;" target="_self"><img class="nspImage" src="https://www.segs.com.br/modules/mod_news_pro_gk5/cache/k2.items.cache.94f1b53d85a7f535f0867bb307c327eb_Genericnsp-193.jpg" alt="Dia do imigrante italiano: pesquisa aponta que a culinária italiana é a mais querida pelos brasileiros" /></a><h4 class="nspHeader tleft fnull has-image"><a href="/demais/157310-dia-do-imigrante-italiano-pesquisa-aponta-que-a-culinaria-italiana-e-a-mais-querida-pelos-brasileiros" title="Dia do imigrante italiano: pesquisa aponta que a culinária italiana é a mais querida pelos brasileiros" target="_self">Dia do imigrante italiano: pesquisa aponta que a culinária italiana é a mais querida pelos brasileiros</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;clear:both;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/demais" target="_self">Demais</a></p><h4 class="nspHeader tleft fnull"><a href="/demais/157385-randon-day-tera-edicao-especial-em-comemoracao-aos-70-anos" title="Randon Day terá edição especial em comemoração aos 70 anos" target="_self">Randon Day terá edição especial em comemoração aos 70 anos</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/demais" target="_self">Demais</a></p><h4 class="nspHeader tleft fnull"><a href="/demais/157384-industria-de-embalagem-de-papelao-tem-crescimento-de-13-em-janeiro" title="Indústria de embalagem de papelão tem crescimento de 13% em janeiro" target="_self">Indústria de embalagem de papelão tem crescimento de 13% em janeiro</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/demais" target="_self">Demais</a></p><h4 class="nspHeader tleft fnull"><a href="/demais/157383-premio-mulheres-paranaenses-homenageia-personalidades-femininas-que-ajudam-a-desenvolver-o-parana" title="Prêmio Mulheres Paranaenses homenageia personalidades femininas que ajudam a desenvolver o Paraná" target="_self">Prêmio Mulheres Paranaenses homenageia personalidades femininas que ajudam a desenvolver o Paraná</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;clear:both;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/demais" target="_self">Demais</a></p><h4 class="nspHeader tleft fnull"><a href="/demais/157382-sorte-online-recebe-ganhadores-da-campanha-promocional-comemorativa-de-15-anos-em-punta-del-este-no-uruguai" title="Sorte Online recebe ganhadores da campanha promocional comemorativa de 15 anos, em Punta del Este, no Uruguai" target="_self">Sorte Online recebe ganhadores da campanha promocional comemorativa de 15 anos, em Punta del Este, no Uruguai</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/demais" target="_self">Demais</a></p><h4 class="nspHeader tleft fnull"><a href="/demais/157381-funiculi-oferece-sabores-de-pizzas-exclusivas-em-curitiba" title="Funiculí oferece sabores de pizzas exclusivas em Curitiba" target="_self">Funiculí oferece sabores de pizzas exclusivas em Curitiba</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/demais" target="_self">Demais</a></p><h4 class="nspHeader tleft fnull"><a href="/demais/157380-superlua-de-terca-feira-19-saiba-se-seu-signo-esta-entre-os-mais-influenciados-e-outras-curiosidades" title="Superlua de terça-feira (19): saiba se seu signo está entre os mais &quot;influenciados&quot; e outras curiosidades" target="_self">Superlua de terça-feira (19): saiba se seu signo está entre os mais &quot;influenciados&quot; e outras curiosidades</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;clear:both;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/demais" target="_self">Demais</a></p><h4 class="nspHeader tleft fnull"><a href="/demais/157379-como-saber-se-voce-encontrou-sua-alma-gemea" title="Como saber se você encontrou sua &quot;alma gêmea&quot;" target="_self">Como saber se você encontrou sua &quot;alma gêmea&quot;</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/demais" target="_self">Demais</a></p><h4 class="nspHeader tleft fnull"><a href="/demais/157378-o-tamanho-exato-para-se-apaixonar-por-ceviche" title="O tamanho exato para se apaixonar por ceviche" target="_self">O tamanho exato para se apaixonar por ceviche</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/demais" target="_self">Demais</a></p><h4 class="nspHeader tleft fnull"><a href="/demais/157377-schultz-confirma-12-convencao-de-vendas-no-nordeste" title="Schultz confirma 12ª Convenção de Vendas no Nordeste" target="_self">Schultz confirma 12ª Convenção de Vendas no Nordeste</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;clear:both;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/demais" target="_self">Demais</a></p><h4 class="nspHeader tleft fnull"><a href="/demais/157376-brastemp-b-blend-amplia-portfolio-e-aposta-na-versatilidade-da-nova-un-plug" title="Brastemp B.blend amplia portfólio e aposta na versatilidade da nova un.plug" target="_self">Brastemp B.blend amplia portfólio e aposta na versatilidade da nova un.plug</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/demais" target="_self">Demais</a></p><h4 class="nspHeader tleft fnull"><a href="/demais/157375-4-dicas-infaliveis-que-vao-te-ajudar-a-gastar-menos-nos-restaurantes" title="4 dicas infalíveis que vão te ajudar a gastar menos nos restaurantes" target="_self">4 dicas infalíveis que vão te ajudar a gastar menos nos restaurantes</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/demais" target="_self">Demais</a></p><h4 class="nspHeader tleft fnull"><a href="/demais/157374-incendio-trisoft-desmente-boato-que-la-de-pet-utilizada-em-revestimento-de-paredes-e-material-inflamavel" title="Incêndio: Trisoft desmente boato que lã de PET, utilizada em revestimento de paredes, é material inflamável" target="_self">Incêndio: Trisoft desmente boato que lã de PET, utilizada em revestimento de paredes, é material inflamável</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;clear:both;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/demais" target="_self">Demais</a></p><h4 class="nspHeader tleft fnull"><a href="/demais/157373-esta-aberta-a-temporada-de-relogios-na-manoel-bernardes" title="Está aberta a Temporada de Relógios na Manoel Bernardes" target="_self">Está aberta a Temporada de Relógios na Manoel Bernardes</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/demais" target="_self">Demais</a></p><h4 class="nspHeader tleft fnull"><a href="/demais/157372-petmais-lanca-assistencia-veterinaria-para-pets-com-valor-acessivel-e-ampla-gama-de-servicos-e-descontos" title="PetMais lança Assistência Veterinária para pets com valor acessível e ampla gama de serviços e descontos" target="_self">PetMais lança Assistência Veterinária para pets com valor acessível e ampla gama de serviços e descontos</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/demais" target="_self">Demais</a></p><h4 class="nspHeader tleft fnull"><a href="/demais/157371-cfm-vendeu-1-353-touros-nelore-ceip-para-14-estados-em-2018" title="CFM vendeu 1.353 touros Nelore CEIP para 14 estados, em 2018" target="_self">CFM vendeu 1.353 touros Nelore CEIP para 14 estados, em 2018</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;clear:both;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/demais" target="_self">Demais</a></p><h4 class="nspHeader tleft fnull"><a href="/demais/157370-parceria-entre-trouw-nutrition-e-pesquisadores-da-fmvz-unesp-botucatu-ufla-e-ufv-avalia-aumento-de-marmoreio-na-producao-de-carne-bovina-de-qualidade" title="Parceria entre Trouw Nutrition e pesquisadores da FMVZ-UNESP Botucatu, UFLA e UFV avalia aumento de marmoreio na produção de carne bovina de qualidade" target="_self">Parceria entre Trouw Nutrition e pesquisadores da FMVZ-UNESP Botucatu, UFLA e UFV avalia aumento de marmoreio na produção de carne bovina de qualidade</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/demais" target="_self">Demais</a></p><h4 class="nspHeader tleft fnull"><a href="/demais/157369-animais-ajudam-no-desenvolvimento-pessoal-das-criancas" title="Animais ajudam no desenvolvimento pessoal das crianças" target="_self">Animais ajudam no desenvolvimento pessoal das crianças</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/demais" target="_self">Demais</a></p><h4 class="nspHeader tleft fnull"><a href="/demais/157368-tegra-adota-plastico-verde-da-embalixo-em-acoes-de-gentilezas-urbanas" title="Tegra adota Plástico Verde da Embalixo em ações de gentilezas urbanas" target="_self">Tegra adota Plástico Verde da Embalixo em ações de gentilezas urbanas</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;clear:both;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/demais" target="_self">Demais</a></p><h4 class="nspHeader tleft fnull"><a href="/demais/157367-terceira-cidade-com-mais-fabricas-de-cerveja-no-brasil-conta-com-nova-opcao-para-qualificacao" title="Terceira cidade com mais fábricas de cerveja no Brasil conta com nova opção para qualificação" target="_self">Terceira cidade com mais fábricas de cerveja no Brasil conta com nova opção para qualificação</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/demais" target="_self">Demais</a></p><h4 class="nspHeader tleft fnull"><a href="/demais/157366-facebook-anuncia-as-novas-startups-selecionadas-para-o-programa-de-aceleracao-na-estacao-hack" title="Facebook anuncia as novas startups selecionadas para o programa de aceleração na Estação Hack" target="_self">Facebook anuncia as novas startups selecionadas para o programa de aceleração na Estação Hack</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/demais" target="_self">Demais</a></p><h4 class="nspHeader tleft fnull"><a href="/demais/157365-advb-abre-inscricoes-para-o-premio-top-de-marketing-2019" title="ADVB abre inscrições para o prêmio Top de Marketing 2019" target="_self">ADVB abre inscrições para o prêmio Top de Marketing 2019</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;clear:both;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/demais" target="_self">Demais</a></p><h4 class="nspHeader tleft fnull"><a href="/demais/157364-rede-de-franquia-cria-animacao-para-lancar-mascotes-colecionaveis" title="Rede de franquia cria animação para lançar mascotes colecionáveis" target="_self">Rede de franquia cria animação para lançar mascotes colecionáveis</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/demais" target="_self">Demais</a></p><h4 class="nspHeader tleft fnull"><a href="/demais/157363-feira-traz-novidades-para-produtores-rurais-em-santa-barbara-do-sul-rs" title="Feira traz novidades para produtores rurais em Santa Bárbara do Sul (RS)" target="_self">Feira traz novidades para produtores rurais em Santa Bárbara do Sul (RS)</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/demais" target="_self">Demais</a></p><h4 class="nspHeader tleft fnull"><a href="/demais/157362-unidade-de-referencia-mira-trabalhador-rural-para-aumentar-seguranca-das-aplicacoes-de-defensivos-agricolas-no-brasil" title="Unidade de Referência mira trabalhador rural para aumentar segurança das aplicações de defensivos agrícolas no Brasil" target="_self">Unidade de Referência mira trabalhador rural para aumentar segurança das aplicações de defensivos agrícolas no Brasil</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;clear:both;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/demais" target="_self">Demais</a></p><h4 class="nspHeader tleft fnull"><a href="/demais/157361-aktie-now-leva-experiencia-em-atendimento-para-conferencia-e-commerce-brasil" title="Aktie Now leva experiência em atendimento para Conferência E-commerce Brasil" target="_self">Aktie Now leva experiência em atendimento para Conferência E-commerce Brasil</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/demais" target="_self">Demais</a></p><h4 class="nspHeader tleft fnull"><a href="/demais/157360-clientes-livelo-podem-resgatar-ingressos-para-blocos-e-camarotes-de-carnaval-a-partir-de-2-mil-pontos" title="Clientes Livelo podem resgatar ingressos para blocos e camarotes de Carnaval a partir de 2 mil pontos" target="_self">Clientes Livelo podem resgatar ingressos para blocos e camarotes de Carnaval a partir de 2 mil pontos</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/demais" target="_self">Demais</a></p><h4 class="nspHeader tleft fnull"><a href="/demais/157358-cineasta-brasileiro-fala-sobre-o-oscar" title="Cineasta brasileiro fala sobre o Oscar" target="_self">Cineasta brasileiro fala sobre o Oscar</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;clear:both;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/demais" target="_self">Demais</a></p><h4 class="nspHeader tleft fnull"><a href="/demais/157357-itau-unibanco-e-primeiro-banco-a-operar-em-projeto-de-energia-solar-em-minas-gerais" title="Itaú Unibanco é primeiro banco a operar em projeto de energia solar em Minas Gerais" target="_self">Itaú Unibanco é primeiro banco a operar em projeto de energia solar em Minas Gerais</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/demais" target="_self">Demais</a></p><h4 class="nspHeader tleft fnull"><a href="/demais/157356-cpfl-paulista-conquista-o-premio-exame-ibrc-de-atendimento-ao-cliente-2019" title="CPFL Paulista conquista o Prêmio Exame/IBRC de Atendimento ao Cliente 2019" target="_self">CPFL Paulista conquista o Prêmio Exame/IBRC de Atendimento ao Cliente 2019</a></h4> </div>
+<div class="nspArt nspCol3" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/demais" target="_self">Demais</a></p><h4 class="nspHeader tleft fnull"><a href="/demais/157354-cuiaba-recebe-a-primeira-operacao-da-snack-saudavel" title="Cuiabá recebe a primeira operação da Snack Saudável" target="_self">Cuiabá recebe a primeira operação da Snack Saudável</a></h4> </div>
+<div class="nspArt nspCol3 lastChild" style="padding:0 1rem 0.625rem 1rem;clear:both;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/demais" target="_self">Demais</a></p><h4 class="nspHeader tleft fnull"><a href="/demais/157352-brf-participa-da-gulfood-a-maior-feira-de-alimentos-do-oriente-medio" title="BRF Participa da Gulfood, a Maior Feira de Alimentos do Oriente Médio" target="_self">BRF Participa da Gulfood, a Maior Feira de Alimentos do Oriente Médio</a></h4> </div>
+<div class="nspArt nspCol3 lastChild" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/demais" target="_self">Demais</a></p><h4 class="nspHeader tleft fnull"><a href="/demais/157351-labone-vitor-cabral-participa-de-jogos-abertos-no-recife" title="Labone Vitor Cabral participa de jogos abertos no Recife" target="_self">Labone Vitor Cabral participa de jogos abertos no Recife</a></h4> </div>
+<div class="nspArt nspCol3 lastChild" style="padding:0 1rem 0.625rem 1rem;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/demais" target="_self">Demais</a></p><h4 class="nspHeader tleft fnull"><a href="/demais/157349-com-tecnologia-de-ponta-radar-agro-da-climatempo-oferece-monitoramento-de-chuva-em-tempo-real" title="Com tecnologia de ponta, Radar Agro da Climatempo, oferece monitoramento de chuva em tempo real" target="_self">Com tecnologia de ponta, Radar Agro da Climatempo, oferece monitoramento de chuva em tempo real</a></h4> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="nspLinksWrap bottom" style="width:99.9%;">
+<div class="nspLinks" style="margin:0;">
+<div class="nspLinkScroll1">
+<div class="nspLinkScroll2 nspPages1">
+<ul class="nspList active nspCol1">
+<li class="even"><h4><a href="/demais/157348-escritora-maria-luiza-medeiros-barros-lanca-livro-em-noite-de-autografos" title="Escritora Maria Luíza Medeiros Barros lança livro em noite de autógrafos" target="_self">Escritora Maria Luíza Medeiros Barros lança livro em noite de autógrafos</a></h4></li>
+</ul>
+</div>
+<a href="/demais?start=31" class="readon-button">
+>> 2ª página com mais Demais Noticias - Continuação...>> </a>
+</div>
+</div>
+</div>
+</div>
+</div></div>
+</div>
+</section>
+</div>
+</section>
+<aside id="gkSidebar">
+<div class="box  nomargin"><div class="content">
+<div class="custom">
+<p style="text-align: left;"><a title="SOMPO SEGUROS" href="https://seguros.sompo.com.br/seguro-faixa-preta" target="_blank" rel="alternate noopener noreferrer"><img style="display: block; margin-left: auto; margin-right: auto;" title="SOMPO SEGUROS" src="/images/banners/SompoSEGS_320-2_050518.jpg" alt="SOMPO SEGUROS" width="320" height="128" /></a></p>
+</div>
+</div></div><div class="box "><div class="content">
+<div class="custom">
+<p style="text-align: center;"><a title="Sra Plus" href="https://www.autoglass.com.br/segurado/sra-plus" target="_blank" rel="noopener noreferrer"><img title="AUTOGLASS" src="/images/banners/banners-SRAplus-26112018_SEGSc.png" alt="AUTOGLASS" width="320" height="129" /></a></p>
+</div>
+</div></div><div class="box "><div class="content"><form action="/" method="post">
+<div class="search">
+<input name="searchword" id="mod-search-searchword" maxlength="200" class="inputbox" type="text" size="20" value="Buscar no segs" onblur="if (this.value=='') this.value='Buscar no segs';" onfocus="if (this.value=='Buscar no segs') this.value='';" /><input type="submit" value="Busca" class="button" onclick="this.form.searchword.focus();" /> <input type="hidden" name="task" value="search" />
+<input type="hidden" name="option" value="com_search" />
+<input type="hidden" name="Itemid" value="9999" />
+</div>
+<input type="text" name="34a1bd0f661890289dc85f71ce98c538" value="" style="float: left; position: absolute; z-index: 1000000; left: -10000px; top: -10000px;" /></form>
+</div></div><div class="box color bigtitle"><h3 class="header">Frase::</h3><div class="content"> <div class="nspMain color bigtitle" id="nsp-nsp-200" data-config="{
+				'animation_speed': 400,
+				'animation_interval': 5000,
+				'animation_function': 'Fx.Transitions.Expo.easeIn',
+				'news_column': 0,
+				'news_rows': 0,
+				'links_columns_amount': 1,
+				'links_amount': 3
+			}">
+<div class="nspLinksWrap bottom" style="width:99.9%;">
+<div class="nspLinks" style="margin:1.666rem 0 0 0;">
+<div class="nspLinkScroll1">
+<div class="nspLinkScroll2 nspPages1">
+<ul class="nspList active nspCol1">
+<li class="even"><h4><a href="/mais/frases/157293-frase-nao-e-necessario-dizer-tudo" title="Frase... &quot;Não é necessário dizer tudo..''" target="_self">Frase... &quot;Não é necessário dizer tudo..''</a></h4></li>
+<li class="odd"><h4><a href="/mais/frases/157066-frase-o-dia-mais-desperdicado-de-todos" title="Frase... ''O dia mais desperdiçado de todos...''" target="_self">Frase... ''O dia mais desperdiçado de todos...''</a></h4></li>
+<li class="even"><h4><a href="/mais/frases/156825-frase-as-pessoas-tem-medo" title="Frase... &quot;As pessoas têm medo...''" target="_self">Frase... &quot;As pessoas têm medo...''</a></h4></li>
+</ul>
+</div>
+<a href="/mais/frases" class="readon-button">
+>> Mais Frases... </a>
+</div>
+</div>
+</div>
+</div>
+</div></div><div class="box color bigtitle"><h3 class="header">Mensagem::</h3><div class="content"> <div class="nspMain color bigtitle" id="nsp-nsp-426" data-config="{
+				'animation_speed': 400,
+				'animation_interval': 5000,
+				'animation_function': 'Fx.Transitions.Expo.easeIn',
+				'news_column': 0,
+				'news_rows': 0,
+				'links_columns_amount': 1,
+				'links_amount': 3
+			}">
+<div class="nspLinksWrap bottom" style="width:99.9%;">
+<div class="nspLinks" style="margin:1.666rem 0 0 0;">
+<div class="nspLinkScroll1">
+<div class="nspLinkScroll2 nspPages1">
+<ul class="nspList active nspCol1">
+<li class="even"><h4><a href="/mais/mensagens/157292-mensagem-realidade-divina" title="Mensagem... Realidade Divina." target="_self">Mensagem... Realidade Divina.</a></h4></li>
+<li class="odd"><h4><a href="/mais/mensagens/157068-mensagem-nossos-pesos" title="Mensagem... Nossos pesos." target="_self">Mensagem... Nossos pesos.</a></h4></li>
+<li class="even"><h4><a href="/mais/mensagens/156826-mensagem-ouvindo-pela-primeira-vez" title="Mensagem... Ouvindo pela primeira vez" target="_self">Mensagem... Ouvindo pela primeira vez</a></h4></li>
+</ul>
+</div>
+<a href="/mais/mensagens" class="readon-button">
+>> Mais Mensagens... </a>
+</div>
+</div>
+</div>
+</div>
+</div></div><div class="box color bigtitle"><h3 class="header">Piada::</h3><div class="content"> <div class="nspMain color bigtitle" id="nsp-nsp-230" data-config="{
+				'animation_speed': 400,
+				'animation_interval': 5000,
+				'animation_function': 'Fx.Transitions.Expo.easeIn',
+				'news_column': 0,
+				'news_rows': 0,
+				'links_columns_amount': 1,
+				'links_amount': 3
+			}">
+<div class="nspLinksWrap bottom" style="width:99.9%;">
+<div class="nspLinks" style="margin:1.666rem 0 0 0;">
+<div class="nspLinkScroll1">
+<div class="nspLinkScroll2 nspPages1">
+<ul class="nspList active nspCol1">
+<li class="even"><h4><a href="/mais/piadas/157294-piadas-joaozinho-carteiro" title="Piadas... ''Joãozinho carteiro''" target="_self">Piadas... ''Joãozinho carteiro''</a></h4></li>
+<li class="odd"><h4><a href="/mais/piadas/157067-piadas-pendurado-no-lustre" title="Piadas... ''Pendurado no Lustre''" target="_self">Piadas... ''Pendurado no Lustre''</a></h4></li>
+<li class="even"><h4><a href="/mais/piadas/156827-piadas-buraco-na-rua" title="Piadas... ''Buraco na Rua''" target="_self">Piadas... ''Buraco na Rua''</a></h4></li>
+</ul>
+</div>
+<a href="/mais/piadas" class="readon-button">
+>> Mais Piadas... </a>
+</div>
+</div>
+</div>
+</div>
+</div></div><div class="box acy-email"><div class="content"><div class="acymailing_moduleacy-email" id="acymailing_module_formAcymailing24801">
+<div class="acymailing_fulldiv" id="acymailing_fulldiv_formAcymailing24801">
+<form id="formAcymailing24801" action="/" onsubmit="return submitacymailingform('optin','formAcymailing24801')" method="post" name="formAcymailing24801">
+<div class="acymailing_module_form">
+<div class="acymailing_introtext"><h3 class="module-title " style="box-sizing: border-box; font-family: 'Roboto Condensed', 'Arial Narrow', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 400; line-height: normal; color: rgb(255, 255, 255); font-size: 16px; display: inline-block; text-transform: uppercase; font-style: normal; font-variant: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; margin: 0px; padding-left: 12px; padding-right: 12px; padding-top: 6px; padding-bottom: 6px; background: rgb(204, 0, 0)">
+<span style="box-sizing: border-box;">RECEBA O RESUMO DE NOTÍCIAS DE SEGUROS DO SEGS, É GRÁTIS..::</span></h3>
+<div class="module-ct" style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 24px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-size: inherit; background-origin: inherit; background-clip: inherit; padding: 0px; background: rgb(255, 255, 255) inherit inherit inherit inherit 50%">
+<div class="acymailing_moduleacy-email" id="acymailing_module_formAcymailing52801" style="box-sizing: border-box; margin-bottom: 0px; border-style: solid; border-width: 25px; -webkit-border-image: url() 31 27 28 31 fill repeat; border-image-source: url(https://www.segs.com.br/templates/gk_news/images/envelope.png); border-image-slice: 31 27 28 31 fill; border-image-repeat: repeat; background-color: rgb(255, 255, 255);">
+<div class="acymailing_fulldiv" id="acymailing_fulldiv_formAcymailing52801" style="box-sizing: border-box;">
+<form id="formAcymailing52801" method="post" name="formAcymailing52801" style="box-sizing: border-box;">
+<div class="acymailing_module_form" style="box-sizing: border-box;">
+<div class="acymailing_introtext" style="box-sizing: border-box; padding-bottom: 10px; display: block; line-height: 1.5; font-size: 14px; color: rgb(51, 51, 51);">
+<p align="justify" /><span style="color: rgb(102, 102, 102); font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20.6px; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255);">Profissional atualizado anda na frente da concorrência!</span></div><input type="text" name="34a1bd0f661890289dc85f71ce98c538" value="" style="float: left; position: absolute; z-index: 1000000; left: -10000px; top: -10000px;" /></form></div></div> <div class="acymailing_form">
+<p class="onefield fieldacyemail" id="field_email_formAcymailing24801"> <span class="acyfield_email acy_requiredField"><input id="user_email_formAcymailing24801" onfocus="if(this.value == 'Email') this.value = '';" onblur="if(this.value=='') this.value='Email';" class="inputbox" type="text" name="user[email]" style="width:90%" value="Email" title="Email" /></span>
+</p>
+<p class="acysubbuttons">
+<input class="button subbutton btn btn-primary" type="submit" value="ASSINE NEWSLETTER" name="Submit" onclick="try{ return submitacymailingform('optin','formAcymailing24801'); }catch(err){alert('The form could not be submitted '+err);return false;}" />
+</p>
+</div>
+<input type="hidden" name="ajax" value="1" />
+<input type="hidden" name="acy_source" value="module_322" />
+<input type="hidden" name="ctrl" value="sub" />
+<input type="hidden" name="task" value="notask" />
+<input type="hidden" name="redirect" value="https%3A%2F%2Fwww.segs.com.br%2F" />
+<input type="hidden" name="redirectunsub" value="https%3A%2F%2Fwww.segs.com.br%2F" />
+<input type="hidden" name="option" value="com_acymailing" />
+<input type="hidden" name="hiddenlists" value="1" />
+<input type="hidden" name="acyformname" value="formAcymailing24801" />
+</div>
+<input type="text" name="34a1bd0f661890289dc85f71ce98c538" value="" style="float: left; position: absolute; z-index: 1000000; left: -10000px; top: -10000px;" /></form>
+</div>
+</div>
+</div></div><div class="box color bigtitle"><h3 class="header">Notícias Data::</h3><div class="content">
+<div id="k2ModuleBox176" class="k2CalendarBlock color bigtitle">
+<table class="calendar">
+<tr>
+<td class="calendarNavMonthPrev"><a class="calendarNavLink" href="/index.php?option=com_k2&amp;view=itemlist&amp;task=calendar&amp;month=1&amp;year=2019&amp;Itemid=101">&laquo;</a></td>
+<td class="calendarCurrentMonth" colspan="5">Fevereiro 2019</td>
+<td class="calendarNavMonthNext"><a class="calendarNavLink" href="/index.php?option=com_k2&amp;view=itemlist&amp;task=calendar&amp;month=3&amp;year=2019&amp;Itemid=101">&raquo;</a></td>
+</tr>
+<tr>
+<td class="calendarDayName" style="width:14%">Seg.</td>
+<td class="calendarDayName" style="width:14%">Ter</td>
+<td class="calendarDayName" style="width:14%">Qua</td>
+<td class="calendarDayName" style="width:14%">Qui</td>
+<td class="calendarDayName" style="width:14%">Sex</td>
+<td class="calendarDayName" style="width:14%">Sáb.</td>
+<td class="calendarDayName" style="width:14%">Dom</td>
+</tr>
+<tr>
+<td class="calendarDateEmpty">&nbsp;</td>
+<td class="calendarDateEmpty">&nbsp;</td>
+<td class="calendarDateEmpty">&nbsp;</td>
+<td class="calendarDateEmpty">&nbsp;</td>
+<td class="calendarDateLinked"><a href="/component/k2/data/2019/2/1">1</a></td>
+<td class="calendarDateLinked"><a href="/component/k2/data/2019/2/2">2</a></td>
+<td class="calendarDate">3</td>
+</tr>
+<tr>
+<td class="calendarDateLinked"><a href="/component/k2/data/2019/2/4">4</a></td>
+<td class="calendarDateLinked"><a href="/component/k2/data/2019/2/5">5</a></td>
+<td class="calendarDateLinked"><a href="/component/k2/data/2019/2/6">6</a></td>
+<td class="calendarDateLinked"><a href="/component/k2/data/2019/2/7">7</a></td>
+<td class="calendarDateLinked"><a href="/component/k2/data/2019/2/8">8</a></td>
+<td class="calendarDateLinked"><a href="/component/k2/data/2019/2/9">9</a></td>
+<td class="calendarDate">10</td>
+</tr>
+<tr>
+<td class="calendarDateLinked"><a href="/component/k2/data/2019/2/11">11</a></td>
+<td class="calendarDateLinked"><a href="/component/k2/data/2019/2/12">12</a></td>
+<td class="calendarDateLinked"><a href="/component/k2/data/2019/2/13">13</a></td>
+<td class="calendarDateLinked"><a href="/component/k2/data/2019/2/14">14</a></td>
+<td class="calendarDateLinked"><a href="/component/k2/data/2019/2/15">15</a></td>
+<td class="calendarDateLinked"><a href="/component/k2/data/2019/2/16">16</a></td>
+<td class="calendarDate">17</td>
+</tr>
+<tr>
+<td class="calendarTodayLinked"><a href="/component/k2/data/2019/2/18">18</a></td>
+<td class="calendarDate">19</td>
+<td class="calendarDate">20</td>
+<td class="calendarDate">21</td>
+<td class="calendarDate">22</td>
+<td class="calendarDate">23</td>
+<td class="calendarDate">24</td>
+</tr>
+<tr>
+<td class="calendarDate">25</td>
+<td class="calendarDate">26</td>
+<td class="calendarDate">27</td>
+<td class="calendarDate">28</td>
+<td class="calendarDateEmpty">&nbsp;</td>
+<td class="calendarDateEmpty">&nbsp;</td>
+<td class="calendarDateEmpty">&nbsp;</td>
+</tr>
+</table>
+<div class="clr"></div>
+</div>
+</div></div><div class="box color bigtitle "><h3 class="header">P U B L I::</h3><div class="content"> <div class="nspMain color bigtitle " id="nsp-nsp-490" data-config="{
+				'animation_speed': 400,
+				'animation_interval': 5000,
+				'animation_function': 'Fx.Transitions.Expo.easeIn',
+				'news_column': 1,
+				'news_rows': 1,
+				'links_columns_amount': 0,
+				'links_amount': 0
+			}">
+<div class="nspArts bottom" style="width:100%;">
+<div class="nspArtScroll1">
+<div class="nspArtScroll2 nspPages1">
+<div class="nspArtPage active nspCol1">
+<div class="nspArt nspCol1" style="padding:1.25rem 0.5rem  0;">
+<a href="/publi/156582-nike-e-a-marca-esportiva-com-a-maior-receita-do-planeta" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0 0 1rem 0;" target="_self"><img class="nspImage" src="https://www.segs.com.br/modules/mod_news_pro_gk5/cache/k2.items.cache.4493bc4c023790df07d884d049737de2_Genericnsp-490.jpg" alt="Nike é a marca esportiva com a maior receita do planeta" /></a><p class="nspInfo nspInfo1 tleft fnone"><a href="/publi" target="_self">P U B L I</a></p><div class="gkArtContentWrap"><h4 class="nspHeader tleft fnull has-image"><a href="/publi/156582-nike-e-a-marca-esportiva-com-a-maior-receita-do-planeta" title="Nike é a marca esportiva com a maior receita do planeta" target="_self">Nike é a marca esportiva com a maior receita do planeta</a></h4></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></div><div class="box color bigtitle "><h3 class="header">Turismo::</h3><div class="content"> <div class="nspMain color bigtitle " id="nsp-nsp-411" data-config="{
+				'animation_speed': 400,
+				'animation_interval': 5000,
+				'animation_function': 'Fx.Transitions.Expo.easeIn',
+				'news_column': 1,
+				'news_rows': 3,
+				'links_columns_amount': 1,
+				'links_amount': 1
+			}">
+<div class="nspArts bottom" style="width:100%;">
+<div class="nspArtScroll1">
+<div class="nspArtScroll2 nspPages1">
+<div class="nspArtPage active nspCol1">
+<div class="nspArt nspCol1 nspFeatured" style="padding:1.25rem 0.5rem  0;">
+<a href="/mais/turismo-viagens/157460-wz-hotel-jardins-lanca-jantar-tematico" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0 0 1rem 0;" target="_self"><img class="nspImage" src="https://www.segs.com.br/modules/mod_news_pro_gk5/cache/k2.items.cache.3804cebf577faf821a074d53714e4a77_Genericnsp-411.jpg" alt="WZ Hotel Jardins lança jantar temático" /></a><p class="nspInfo nspInfo1 tleft fnone"><a href="/mais/turismo-viagens" target="_self">Turismo</a></p><div class="gkArtContentWrap"><h4 class="nspHeader tleft fnull has-image"><a href="/mais/turismo-viagens/157460-wz-hotel-jardins-lanca-jantar-tematico" title="WZ Hotel Jardins lança jantar temático" target="_self">WZ Hotel Jardins lança jantar temático</a></h4></div> </div>
+<div class="nspArt nspCol1" style="padding:1.25rem 0.5rem  0;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/mais/turismo-viagens" target="_self">Turismo</a></p><div class="gkArtContentWrap"><h4 class="nspHeader tleft fnull"><a href="/mais/turismo-viagens/157476-estudo-mostra-os-destinos-favoritos-dos-estrangeiros-para-o-carnaval-brasileiro-de-2019" title="Estudo mostra os destinos favoritos dos estrangeiros para o Carnaval brasileiro de 2019" target="_self">Estudo mostra os destinos favoritos dos estrangeiros para o Carnaval brasileiro de 2019</a></h4></div> </div>
+<div class="nspArt nspCol1" style="padding:1.25rem 0.5rem  0;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/mais/turismo-viagens" target="_self">Turismo</a></p><div class="gkArtContentWrap"><h4 class="nspHeader tleft fnull"><a href="/mais/turismo-viagens/157475-mabu-thermas-grand-resort-e-referencia-em-sustentabilidade" title="Mabu Thermas Grand Resort é referência em sustentabilidade" target="_self">Mabu Thermas Grand Resort é referência em sustentabilidade</a></h4></div> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="nspLinksWrap bottom" style="width:99.9%;">
+<div class="nspLinks" style="margin:0;">
+<div class="nspLinkScroll1">
+<div class="nspLinkScroll2 nspPages1">
+<ul class="nspList active nspCol1">
+<li class="even"><h4><a href="/mais/turismo-viagens/157144-navegando-por-toda-a-europa-no-verao" title="Navegando por toda a Europa, no verão" target="_self">Navegando por toda a Europa, no verão</a></h4></li>
+</ul>
+</div>
+<a href="/mais/turismo-viagens?start=6" class="readon-button">
+>> 2ª página com mais Noticias de Turismo & Viagens >> </a>
+</div>
+</div>
+</div>
+</div>
+</div></div><div class="box color bigtitle "><h3 class="header">Economia::</h3><div class="content"> <div class="nspMain color bigtitle " id="nsp-nsp-232" data-config="{
+				'animation_speed': 400,
+				'animation_interval': 5000,
+				'animation_function': 'Fx.Transitions.Expo.easeIn',
+				'news_column': 1,
+				'news_rows': 1,
+				'links_columns_amount': 1,
+				'links_amount': 5
+			}">
+<div class="nspArts bottom" style="width:100%;">
+<div class="nspArtScroll1">
+<div class="nspArtScroll2 nspPages1">
+<div class="nspArtPage active nspCol1">
+<div class="nspArt nspCol1" style="padding:1.25rem 0.5rem  0;">
+<a href="/mais/economia/157235-executivos-de-grandes-instituicoes-bancarias-migram-para-o-mercado-de-fintechs" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0 0 1rem 0;" target="_self"><img class="nspImage" src="https://www.segs.com.br/modules/mod_news_pro_gk5/cache/k2.items.cache.82ef88947804d25ab940f80222e754a0_Genericnsp-232.jpg" alt="Executivos de grandes instituições bancárias migram para o mercado de fintechs" /></a><p class="nspInfo nspInfo1 tleft fnone"><a href="/mais/economia" target="_self">Economia</a></p><div class="gkArtContentWrap"><h4 class="nspHeader tleft fnull has-image"><a href="/mais/economia/157235-executivos-de-grandes-instituicoes-bancarias-migram-para-o-mercado-de-fintechs" title="Executivos de grandes instituições bancárias migram para o mercado de fintechs" target="_self">Executivos de grandes instituições bancárias migram para o mercado de fintechs</a></h4></div> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="nspLinksWrap bottom" style="width:99.9%;">
+<div class="nspLinks" style="margin:0;">
+<div class="nspLinkScroll1">
+<div class="nspLinkScroll2 nspPages1">
+<ul class="nspList active nspCol1">
+<li class="even"><h4><a href="/mais/economia/157239-comercio-tem-maior-aumento-nas-vendas-em-5-anos-diz-ibge" title="Comércio tem maior aumento nas vendas em 5 anos, diz IBGE" target="_self">Comércio tem maior aumento nas vendas em 5 anos, diz IBGE</a></h4></li>
+<li class="odd"><h4><a href="/mais/economia/157238-ativos-dos-fundos-de-pensao-superam-r-900-bilhoes-e-rentabilidade-vai-a-12-13" title="Ativos dos fundos de pensão superam R$ 900 bilhões e rentabilidade vai a 12,13%" target="_self">Ativos dos fundos de pensão superam R$ 900 bilhões e rentabilidade vai a 12,13%</a></h4></li>
+<li class="even"><h4><a href="/mais/economia/157233-secretario-de-comercio-de-indiana-eua-apresenta-vantagens-economicas-do-estado-a-investidores-na-segunda-18-2" title="Secretário de Comércio de Indiana (EUA) apresenta vantagens econômicas do Estado a investidores na segunda (18/2)" target="_self">Secretário de Comércio de Indiana (EUA) apresenta vantagens econômicas do Estado a investidores na segunda (18/2)</a></h4></li>
+<li class="odd"><h4><a href="/mais/economia/157230-fusoes-e-aquisicoes-sobem-17-e-alcancam-us-3-4-tri-em-2018" title="Fusões e aquisições sobem 17% e alcançam US$ 3,4 tri em 2018" target="_self">Fusões e aquisições sobem 17% e alcançam US$ 3,4 tri em 2018</a></h4></li>
+<li class="even"><h4><a href="/mais/economia/157228-ativos-dos-fundos-de-pensao-superam-r-900-bilhoes-e-rentabilidade-vai-a-12-13" title="Ativos dos fundos de pensão superam R$ 900 bilhões e rentabilidade vai a 12,13%" target="_self">Ativos dos fundos de pensão superam R$ 900 bilhões e rentabilidade vai a 12,13%</a></h4></li>
+</ul>
+</div>
+<a href="/mais/economia?start=10" class="readon-button">
+>> 2ª página com mais Noticias de Economia >> </a>
+</div>
+</div>
+</div>
+</div>
+</div></div><div class="box color bigtitle "><h3 class="header">Educação::</h3><div class="content"> <div class="nspMain color bigtitle " id="nsp-nsp-231" data-config="{
+				'animation_speed': 400,
+				'animation_interval': 5000,
+				'animation_function': 'Fx.Transitions.Expo.easeIn',
+				'news_column': 1,
+				'news_rows': 1,
+				'links_columns_amount': 1,
+				'links_amount': 8
+			}">
+<div class="nspArts bottom" style="width:100%;">
+<div class="nspArtScroll1">
+<div class="nspArtScroll2 nspPages1">
+<div class="nspArtPage active nspCol1">
+<div class="nspArt nspCol1" style="padding:1.25rem 0.5rem  0;">
+<p class="nspInfo nspInfo1 tleft fnone"><a href="/educacao" target="_self">Educação</a></p><div class="gkArtContentWrap"><h4 class="nspHeader tleft fnull"><a href="/educacao/157445-formacao-de-cidadaos-o-desafio-da-base-nacional-comum-curricular" title="Formação de cidadãos: o desafio da Base Nacional Comum Curricular" target="_self">Formação de cidadãos: o desafio da Base Nacional Comum Curricular</a></h4></div> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="nspLinksWrap bottom" style="width:99.9%;">
+<div class="nspLinks" style="margin:0;">
+<div class="nspLinkScroll1">
+<div class="nspLinkScroll2 nspPages1">
+<ul class="nspList active nspCol1">
+<li class="even"><h4><a href="/educacao/157441-conexia-promove-road-show-sobre-bilinguismo" title="Conexia promove Road Show sobre bilinguismo" target="_self">Conexia promove Road Show sobre bilinguismo</a></h4></li>
+<li class="odd"><h4><a href="/educacao/157440-material-escolar-com-acessibilidade" title="Material escolar com acessibilidade" target="_self">Material escolar com acessibilidade</a></h4></li>
+<li class="even"><h4><a href="/educacao/157435-centro-universitario-eniac-inaugura-carreira-de-bacharelado-em-direito" title="Centro Universitário Eniac inaugura carreira de Bacharelado em Direito" target="_self">Centro Universitário Eniac inaugura carreira de Bacharelado em Direito</a></h4></li>
+<li class="odd"><h4><a href="/educacao/157430-etec-parque-da-juventude-cria-jogos-de-tabuleiro-para-a-onu" title="Etec Parque da Juventude cria jogos de tabuleiro para a ONU" target="_self">Etec Parque da Juventude cria jogos de tabuleiro para a ONU</a></h4></li>
+<li class="even"><h4><a href="/educacao/157429-premio-aster-2019-o-oscar-empresarial-da-esic-internacional" title="Prêmio Áster 2019 - O &quot;Oscar” Empresarial da ESIC Internacional" target="_self">Prêmio Áster 2019 - O &quot;Oscar” Empresarial da ESIC Internacional</a></h4></li>
+<li class="odd"><h4><a href="/educacao/157428-camara-brasil-alemanha-do-rio-de-janeiro-oferece-cursos-de-gestao-de-energia" title="Câmara Brasil-Alemanha do Rio de Janeiro oferece cursos de gestão de energia" target="_self">Câmara Brasil-Alemanha do Rio de Janeiro oferece cursos de gestão de energia</a></h4></li>
+<li class="even"><h4><a href="/educacao/157426-inscricoes-para-o-desafio-invent-a-new-future-2019-3m-estao-abertas" title="Inscrições para o desafio “Invent a New Future 2019” 3M estão abertas" target="_self">Inscrições para o desafio “Invent a New Future 2019” 3M estão abertas</a></h4></li>
+<li class="odd"><h4><a href="/educacao/157421-5-razoes-para-investir-na-biblioteca-4-0" title="5 razões para investir na biblioteca 4.0" target="_self">5 razões para investir na biblioteca 4.0</a></h4></li>
+</ul>
+</div>
+<a href="/educacao?start=10" class="readon-button">
+>> 2ª página com mais Noticias de Educação >> </a>
+</div>
+</div>
+</div>
+</div>
+</div></div><div class="box color bigtitle "><h3 class="header">Vagas::</h3><div class="content"> <div class="nspMain color bigtitle " id="nsp-nsp-201" data-config="{
+				'animation_speed': 400,
+				'animation_interval': 5000,
+				'animation_function': 'Fx.Transitions.Expo.easeIn',
+				'news_column': 1,
+				'news_rows': 1,
+				'links_columns_amount': 1,
+				'links_amount': 3
+			}">
+ <div class="nspArts bottom" style="width:100%;">
+<div class="nspArtScroll1">
+<div class="nspArtScroll2 nspPages1">
+<div class="nspArtPage active nspCol1">
+<div class="nspArt nspCol1 nspFeatured" style="padding:1.25rem 0.5rem  0;">
+<a href="/mais/vagas/157301-a-t-kearney-abre-processo-para-selecao-de-estagiarios-em-consultoria" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0 0 1rem 0;" target="_self"><img class="nspImage" src="https://www.segs.com.br/modules/mod_news_pro_gk5/cache/k2.items.cache.64a7891b949fafa69681f89633812e28_Genericnsp-201.jpg" alt="A.T. Kearney abre processo para s e l e ç ã o de estagiários em consultoria" /></a><p class="nspInfo nspInfo1 tleft fnone"><a href="/mais/vagas" target="_self">Vagas</a></p><div class="gkArtContentWrap"><h4 class="nspHeader tleft fnull has-image"><a href="/mais/vagas/157301-a-t-kearney-abre-processo-para-selecao-de-estagiarios-em-consultoria" title="A.T. Kearney abre processo para s e l e ç ã o de estagiários em consultoria" target="_self">A.T. Kearney abre processo para s e l e ç ã o de estagiários em consultoria</a></h4></div> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="nspLinksWrap bottom" style="width:99.9%;">
+<div class="nspLinks" style="margin:0;">
+<div class="nspLinkScroll1">
+<div class="nspLinkScroll2 nspPages1">
+<ul class="nspList active nspCol1">
+<li class="even"><h4><a href="/mais/vagas/157359-bionexo-abre-inscricoes-para-programa-de-estagio" title="Bionexo abre inscrições para programa de estágio" target="_self">Bionexo abre inscrições para programa de estágio</a></h4></li>
+<li class="odd"><h4><a href="/mais/vagas/157355-ultimos-dias-de-inscricoes-para-programa-de-trainee-que-pode-levar-vencedor-para-vale-do-silicio" title="Últimos dias de inscrições para programa de trainee que pode levar vencedor para Vale do Silício" target="_self">Últimos dias de inscrições para programa de trainee que pode levar vencedor para Vale do Silício</a></h4></li>
+<li class="even"><h4><a href="/mais/vagas/157353-fidi-abre-vagas-para-medicos-radiologistas-e-ultrassonografistas" title="FIDI abre vagas para médicos radiologistas e ultrassonografistas" target="_self">FIDI abre vagas para médicos radiologistas e ultrassonografistas</a></h4></li>
+</ul>
+</div>
+<a href="/mais/vagas?start=10" class="readon-button">
+>> 2ª página com mais Noticias de Vagas >> </a>
+</div>
+</div>
+</div>
+</div>
+</div></div><div class="box "><div class="content">
+<div class="custom">
+<p style="text-align: center;"><a title="GRUPO DO SEGS PORTAL NACIONAL NO FACE" href="https://www.facebook.com/groups/portalnacional/" target="_blank" rel="noopener noreferrer"><img title="FACE" src="/images/banners/grupoface220.jpg" alt="FACE" width="220" height="194" /></a></p>
+</div>
+</div></div><div class="box color bigtitle "><h3 class="header">Receitas::</h3><div class="content"> <div class="nspMain color bigtitle " id="nsp-nsp-270" data-config="{
+				'animation_speed': 400,
+				'animation_interval': 5000,
+				'animation_function': 'Fx.Transitions.Expo.easeIn',
+				'news_column': 1,
+				'news_rows': 1,
+				'links_columns_amount': 1,
+				'links_amount': 1
+			}">
+<div class="nspArts bottom" style="width:100%;">
+<div class="nspArtScroll1">
+<div class="nspArtScroll2 nspPages1">
+<div class="nspArtPage active nspCol1">
+<div class="nspArt nspCol1" style="padding:1.25rem 0.5rem  0;">
+<a href="/mais/receitas/157295-sobrou-arroz-aproveite-para-preparar-essa-sugestao-facil-e-rapida-de-torta-de-arroz-da-mondial" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0 0 1rem 0;" target="_self"><img class="nspImage" src="https://www.segs.com.br/modules/mod_news_pro_gk5/cache/k2.items.cache.223ff98e467da4da385676c886815b3e_Genericnsp-270.jpg" alt="Sobrou arroz? Aproveite para preparar essa sugestão fácil e rápida de torta de arroz da Mondial" /></a><p class="nspInfo nspInfo1 tleft fnone"><a href="/mais/receitas" target="_self">Receitas</a></p><div class="gkArtContentWrap"><h4 class="nspHeader tleft fnull has-image"><a href="/mais/receitas/157295-sobrou-arroz-aproveite-para-preparar-essa-sugestao-facil-e-rapida-de-torta-de-arroz-da-mondial" title="Sobrou arroz? Aproveite para preparar essa sugestão fácil e rápida de torta de arroz da Mondial" target="_self">Sobrou arroz? Aproveite para preparar essa sugestão fácil e rápida de torta de arroz da Mondial</a></h4></div> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="nspLinksWrap bottom" style="width:99.9%;">
+<div class="nspLinks" style="margin:0;">
+<div class="nspLinkScroll1">
+<div class="nspLinkScroll2 nspPages1">
+<ul class="nspList active nspCol1">
+<li class="even"><h4><a href="/mais/receitas/157069-bolo-gelado-de-abacaxi" title="Bolo gelado de abacaxi" target="_self">Bolo gelado de abacaxi</a></h4></li>
+</ul>
+</div>
+<a href="/mais/receitas" class="readon-button">
+>> Mais Receitas :: </a>
+</div>
+</div>
+</div>
+</div>
+</div></div><div class="box color bigtitle"><h3 class="header">Tags::</h3><div class="content">
+<div id="k2ModuleBox289" class="k2TagCloudBlock color bigtitle">
+<a href="/saude/tag/aconsegrj"> aconsegrj </a>
+<a href="/saude/tag/aconsegsp"> aconsegsp </a>
+<a href="/saude/tag/aida"> aida </a>
+<a href="/vip/aig-seguros"> aig </a>
+<a href="/saude/tag/ans"> ans </a>
+<a href="/saude/tag/ansp"> ansp </a>
+<a href="/saude/tag/aparecido"> aparecido </a>
+<a href="/saude/tag/apts"> apts </a>
+<a href="/vip/argo"> argo </a>
+<a href="/saude/tag/armando"> armando </a>
+<a href="/vip/autoglass"> autoglass </a>
+<a href="/saude/tag/camaracor"> camaracor </a>
+<a href="/seguros/capitalizacao"> capitalizacao </a>
+<a href="/saude/tag/ccsrj"> ccsrj </a>
+<a href="/saude/tag/ccssp"> ccssp </a>
+<a href="/saude/tag/cist"> cist </a>
+<a href="/saude/tag/cnseg"> cnseg </a>
+<a href="/saude/tag/conec2018"> conec2018 </a>
+<a href="/saude/tag/corretor"> corretor </a>
+<a href="/saude/tag/corretora de seguros"> corretora de seguros </a>
+<a href="/saude/tag/corretor de seguros"> corretor de seguros </a>
+<a href="/saude/tag/corretores"> corretores </a>
+<a href="/saude/tag/crescimento"> crescimento </a>
+<a href="/saude/tag/cspbahia"> cspbahia </a>
+<a href="/saude/tag/cspmg"> cspmg </a>
+<a href="/saude/tag/cvgrj"> cvgrj </a>
+<a href="/saude/tag/cvgsp"> cvgsp </a>
+<a href="/saude/tag/empresas"> empresas </a>
+<a href="/saude/tag/europ assistance brasil"> europ assistance brasil </a>
+<a href="/saude/tag/fenasaude"> fenasaude </a>
+<a href="/saude/tag/galiza"> galiza </a>
+<a href="/saude/tag/marketing"> marketing </a>
+<a href="/saude/tag/motivacao"> motivacao </a>
+<a href="/saude/tag/protector"> protector </a>
+<a href="/seguros/resseguros"> resseguros </a>
+<a href="/saude/tag/saúde"> saúde </a>
+<a href="/saude/tag/seguradora"> seguradora </a>
+<a href="/saude/tag/seguro"> seguro </a>
+<a href="/seguros/seguro-condominio"> seguro condominio </a>
+<a href="/seguros/seguro-de-evento"> seguro de evento </a>
+<a href="/seguros/seguro-de-transportes"> seguro de transportes </a>
+<a href="/seguros/seguro-de-veiculos"> seguro de veiculos </a>
+<a href="/seguros/seguro-de-vida"> seguro de vida </a>
+<a href="/seguros/seguro-empresarial"> seguro empresarial </a>
+<a href="/seguros/seguro-residencial"> seguro residencial </a>
+<a href="/saude/tag/seguros"> seguros </a>
+<a href="/seguros/seguro-saude"> seguro saude </a>
+<a href="/seguros/seguro-viagem"> seguro viagem </a>
+<a href="/saude/tag/sincor"> sincor </a>
+<a href="/saude/tag/sincorpr"> sincorpr </a>
+<a href="/saude/tag/sincorrj"> sincorrj </a>
+<a href="/saude/tag/sincorsc"> sincorsc </a>
+<a href="/saude/tag/sincorsp"> sincorsp </a>
+<a href="/saude/tag/sindsegsp"> sindsegsp </a>
+<a href="/vip/sompo-seguros"> sompo </a>
+<a href="/saude/tag/susep"> susep </a>
+<a href="/saude/tag/são paulo"> são paulo </a>
+<a href="/saude/tag/tecnologia"> tecnologia </a>
+<a href="/vip/tokio-marine"> tokio marine </a>
+<a href="/saude/tag/ucs"> ucs </a>
+</div>
+</div></div>
+</aside>
+<!--[if IE 8]>
+    	<div class="ie8clear"></div>
+    	<![endif]-->
+</div>
+<section id="gkBottom1" class="gkCols6 gkNoMargin gkPage">
+<div class="box  gkmod-4 nomargin"><h3 class="header">Sobre nós::</h3><div class="content">
+<div class="custom">
+<table style="height: 21px;" width="250">
+<tbody>
+<tr>
+<td>
+<ul>
+<li style="text-align: left;"><i><span style="font-size: small;"> &gt;&gt; </span><a title="Contato Segs" href="/home/contato-com-o-segs" target="_blank" rel="alternate noopener noreferrer"><span style="font-size: small;">Contato</span></a></i></li>
+<li style="text-align: left;"><i><span style="font-size: small;"> &gt;&gt; </span><a title="Entretenimento" href="/home/entretenimento" target="_blank" rel="noopener noreferrer"><span style="font-size: small;">Entretenimento</span></a></i></li>
+<li style="text-align: left;"><i><span style="font-size: small;"> &gt;&gt; </span><a title="Alerta Roubo" href="/veiculos/alerta-de-roubo-prf" target="_blank" rel="noopener noreferrer"><span style="font-size: small;">Alerta Roubo PRF</span></a></i></li>
+<li style="text-align: left;"><i><span style="font-size: small;"> &gt;&gt; </span><a title="Nossa Missão" href="/home/nossa-missao" target="_blank" rel="noopener noreferrer"><span style="font-size: small;">Nossa Missão</span></a></i></li>
+<li style="text-align: left;"><i><span style="font-size: small;"> &gt;&gt; </span><a title="Publicidade" href="/comercial" target="_blank" rel="noopener noreferrer"><span style="font-size: small;">Publicidade </span> </a></i></li>
+<li style="text-align: left;"><i><span style="font-size: small;"> &gt;&gt; </span><a title="Quem Somos?" href="/home/quem-somos" target="_blank" rel="noopener noreferrer"><span style="font-size: small;">Quem Somos?</span></a></i></li>
+<li style="text-align: left;"><i><span style="font-size: small;"> &gt;&gt; </span><a title="Termo de Uso" href="/home/termos-de-uso" target="_blank" rel="noopener noreferrer"><span style="font-size: small;">Termo de Uso</span></a></i></li>
+<li style="text-align: left;"><i><span style="font-size: small;"> &gt;&gt; </span><span style="font-size: 10pt;"><a title="Login" href="/login" target="_blank" rel="noopener noreferrer">Login<br /><br /></a></span></i></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div></div><div class="box  gkmod-4 nomargin"><h3 class="header">Siga-nos::</h3><div class="content">
+<div class="custom">
+<table style="height: 147px;" width="236">
+<tbody>
+<tr>
+<td>
+<ul>
+<li><i><span style="font-size: small;"> &gt;&gt; </span><a title="Facebook Segs" href="https://www.facebook.com/segs.portalnacional" target="_blank" rel="noopener noreferrer"><span style="font-size: small;">Facebook</span></a></i></li>
+<li><i><span style="font-size: small;"> &gt;&gt; <a title="Facebook Segs" href="https://www.facebook.com/groups/portalnacional/" target="_blank" rel="noopener noreferrer">Grupo no Face</a> </span></i></li>
+<li><i><span style="font-size: small;"> &gt;&gt; <a title="Linkedin" href="https://www.linkedin.com/in/segs-com-br-portal-nacional-89abb424/" target="_blank" rel="alternate noopener noreferrer">Linkedin</a></span></i></li>
+<li><i><span style="font-size: small;"> &gt;&gt; </span><a title="Google+ Segs" href="https://plus.google.com/u/0/+JCTegami" target="_blank" rel="alternate noopener noreferrer"><span style="font-size: small;">Google+</span></a></i></li>
+<li><i><span style="font-size: small;"> &gt;&gt; </span><a title="Twitter Segs" href="https://twitter.com/portal_nacional" target="_blank" rel="noopener noreferrer"><span style="font-size: small;">Twitter</span></a></i></li>
+<li><i><span style="font-size: small;"> &gt;&gt; </span><a title="Pinterest Segs" href="https://br.pinterest.com/segspnacional/" target="_blank" rel="alternate noopener noreferrer"><span style="font-size: small;">Pinterest</span></a></i></li>
+<li><i><span style="font-size: small;"> &gt;&gt; </span><a title="NewsLetter Segs" href="/news/" target="_blank" rel="noopener noreferrer"><span style="font-size: small;">NewsLetter</span></a></i></li>
+<li><i><span style="font-size: small;"> &gt;&gt; </span><a title="YOUTUBE" href="https://www.youtube.com/" target="_blank" rel="alternate noopener noreferrer"><span style="font-size: small;">YouTube</span></a></i><i><span style="font-size: small;"> <br /><br /> </span></i></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div></div><div class="box  gkmod-4 nomargin"><h3 class="header">Notícias::</h3><div class="content">
+<div class="custom">
+<table style="height: 160px;" width="234">
+<tbody>
+<tr>
+<td>
+<ul>
+<li><i><span style="font-size: small;"> &gt;&gt; </span><a title="Só Notícias Seguros" href="/seguros" target="_blank" rel="noopener noreferrer"><span style="font-size: small;">Seguros</span></a></i></li>
+<li><i><span style="font-size: small;"> &gt;&gt; </span><a title="Só Nóticias Saúde" href="/saude" target="_blank" rel="noopener noreferrer"><span style="font-size: small;">Saúde</span></a></i></li>
+<li><i><span style="font-size: small;"> &gt;&gt; </span><a title="Só Notícias Veículos" href="/veiculos" target="_blank" rel="noopener noreferrer"><span style="font-size: small;">Veículos</span></a></i></li>
+<li><i><span style="font-size: small;"> &gt;&gt; </span><a title="Só Notícias Info &amp; Ti" href="/info-ti" target="_blank" rel="noopener noreferrer"><span style="font-size: small;">Info &amp; Ti</span></a></i></li>
+<li><i><span style="font-size: small;"> &gt;&gt; </span><a title="Só Notícias Economia" href="/mais/economia" target="_blank" rel="noopener noreferrer"><span style="font-size: small;">Economia</span></a></i></li>
+<li><i><span style="font-size: small;"> &gt;&gt; </span><a title="Só Notícias Educação" href="/educacao" target="_blank" rel="noopener noreferrer"><span style="font-size: small;">Educação</span></a></i></li>
+<li><i><span style="font-size: small;"> &gt;&gt; </span><a title="Só Eventos" href="/eventos" target="_blank" rel="noopener noreferrer"><span style="font-size: small;">Eventos</span></a></i></li>
+<li><i><span style="font-size: small;"> &gt;&gt; </span><a title="Só Vagas" href="/mais/vagas" target="_blank" rel="noopener noreferrer"><span style="font-size: small;">Vagas</span></a></i></li>
+<li><i><span style="font-size: small;"> &gt;&gt; <a title="Só Notícias Demais" href="/demais" target="_blank" rel="noopener noreferrer">Demais</a> </span></i></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div></div><div class="box  gkmod-4 nomargin"><h3 class="header">Mais Itens::</h3><div class="content">
+<div class="custom">
+<table style="height: 101px;" width="303">
+<tbody>
+<tr>
+<td>
+<ul>
+<li><i><span style="font-size: 9pt;"> &gt;&gt; <a title="Só Turismo" href="/mais/turismo-viagens" target="_blank" rel="noopener noreferrer">Turismo</a></span></i></li>
+<li><i><span style="font-size: 9pt;"> &gt;&gt; </span><a title="Só Receitas" href="/mais/receitas" target="_blank" rel="noopener noreferrer"><span style="font-size: 9pt;">Receitas</span></a></i></li>
+<li><i><span style="font-size: 9pt;"> &gt;&gt; </span><a title="Só Frases" href="/mais/frases" target="_blank" rel="noopener noreferrer"><span style="font-size: 9pt;">Frases</span></a></i></li>
+<li><i><span style="font-size: 9pt;"> &gt;&gt; </span><a title="Só Mensagens" href="/mais/mensagens" target="_blank" rel="noopener noreferrer"><span style="font-size: 9pt;">Mensagens</span></a></i></li>
+<li><span style="font-style: italic;"><span style="font-size: 9pt;"> &gt;&gt; <a title="Só Piadas" href="/mais/piadas" target="_blank" rel="noopener noreferrer">Piadas</a> </span></span></li>
+<li><i><span style="font-size: 9pt;"> &gt;&gt; </span><a title="Mais Entretenimento" href="/home/entretenimento" target="_blank" rel="noopener noreferrer"><span style="font-size: 9pt;">Entretenimento</span></a></i></li>
+<li><i><span style="font-size: 9pt;"> &gt;&gt; </span><a title="NewsLetter Segs" href="/news/" target="_blank" rel="noopener noreferrer"><span style="font-size: 9pt;">NewsLetter</span></a></i></li>
+<li><i><span style="font-size: 9pt;"> &gt;&gt; <a title="Home Segs" href="https://www.segs.com.br/" target="_blank" rel="alternate noopener noreferrer">Home Segs</a></span></i></li>
+<li><i><span style="font-size: 9pt;"> &gt;&gt; </span><a title="Home Segs - 2016" href="/2016/" target="_blank" rel="alternate noopener noreferrer"><span style="font-size: 9pt;">Home Segs 2016</span></a></i><i><span style="font-size: 9pt;"> </span></i></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div></div>
+</section>
+<footer id="gkFooter" class="gkPage">
+<div id="gkFooterNav">
+<div id="k2ModuleBox358" class="k2CustomCodeBlock">
+</div>
+</div>
+<p id="gkCopyrights">
+Copyright ©2002-2019 Clipp Segs - Portal Nacional - Todos os direitos reservados.- <a href="https://www.segs.com.br">www.SEGS.com.br</a><a target="_blank" href="https://www.segs.com.br/home/termos-de-uso"> - IMPORTANTE:: Antes de Usar o Segs, Leia Todos os Termos de Uso.</a></a><br />SEGS é compatível com Browsers Google Chrome, Firefox, Opera, Psafe, Safari, Maxthon, Edge, Internet Explorer 11 - (At: Não use Internet Explorer 10 ou anteriores, além de não ter segurança em seu PC, o SEGS é incompatível)<br><a target="_blank" href="https://www.segs.com.br/info-ti/browsers"><font style="font-size: 9pt"> Por Maior Velocidade e Mais Segurança, ABRA AQUI E ATUALIZE o seu NAVEGADOR(Browser) é Gratuíto</font></a></p> </p>
+</footer>
+
+
+
+<div id="gkPopupOverlay"></div>
+<script>
+	jQuery(document).ready(function(){
+   		// Target your .container, .wrapper, .post, etc.
+   		jQuery("body").fitVids();
+	});
+	</script>
+</body>
+</html>

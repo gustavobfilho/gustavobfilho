@@ -1,0 +1,115 @@
+<! doctype html>
+<html lang="en">
+
+<head>
+
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE-edge">
+        <meta name="viewport" content="width=divice-width, initial-scale=1">
+
+        <title>Bootstrap Alerts</title>
+
+        <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+        <link href="bootstrap/css/meuestilo.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+      </head>
+
+</head>
+
+<body>
+        <div class="container">
+                <h1>Alertas no Bootstrap</h1>
+
+                <div class="alert alert-success">
+                        <strong>Sucesso!!</strong> Indica Sucesso ou Ação Positiva.
+                </div>
+                
+                <div class="alert alert-info">
+                        <strong>Infomação!!</strong> Indica Ação Neutra ou Ação Positiva.
+                </div>
+
+                <div class="alert alert-warning">
+                        <strong>Atenção!!</strong> Indica um Estado de Espera ou Atenção.
+                </div>
+
+                <div class="alert alert-danger">
+                        <strong>Perigo!!</strong> Indicates um Perigo ou Ação Potencialmente Negativa.
+                </div>
+
+        </div>
+        <div class="container">
+                        <h1>Link de Alertas</h1>
+        
+                        <div class="alert alert-success">
+                                <strong>Sucesso!</strong> You should <a href="#" class="alert-link">Leia essa mensagem</a>
+                        </div>
+        </div>
+        
+        <div class="container">
+                        <h1>Fechando o Alerta</h1>
+        
+                        <div class="alert alert-success alert-dismissable">
+                                <a href="#" class="close" data-dismiss="alert"aria-label="Fechar">&times;</a>
+                                <strong>Sucesso!</strong> You should <a href="#" class="alert-link">Leia essa mensagem</a>
+                        </div>
+        </div>    
+        
+        <div class="container">
+                        <h1>Alerta Animado</h1>
+        
+                        <div class="alert alert-warning alert-dismissible fade show" role="alert">
+                                <strong>O loco, meu!</strong> Olha esse alerta animado, como é chique!
+                                <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                                  <span aria-hidden="true">&times;</span>
+                                </button>
+                        </div>
+        </div>
+
+        <div class="container">
+                        <h3>Tooltip</h3>
+
+                        <button type="button" class="btn btn-default" data-toggle="tooltip" data-placement="right" title="Detalhes do Item"> Dica
+                        </button>
+                      </div>
+        </div>
+
+        <div class="container">
+                        <h3>Exercicio</h3>
+
+                        
+                        <button type="button" class="btn btn-default btn-lg">
+                                <span class="glyphicon glyphicon-play" data-toggle="tooltip" data-placement="top" title="Tocar"></span>
+                        </button> 
+                        <button type="button" class="btn btn-default btn-lg">
+                                <span class="glyphicon glyphicon-pause" data-toggle="tooltip" data-placement="left" title="Pausar"></span>
+                        </button>
+                        <button type="button" class="btn btn-default btn-lg">
+                                <span class="glyphicon glyphicon-stop" data-toggle="tooltip" data-placement="right" title="Parar"></span>
+                        </button>
+        </div>
+
+        <div class="container">
+                        <h3>Popover</h3>
+
+                        <a href="#" data-toggle="popover" title="Popover Header" data-content="Some content inside the popover">Toggle popover </a>
+
+                        <button type="button" class="btn btn-lg btn-danger" data-toggle="popover" title="Título do popover" data-content="Aqui vai algum tipo de conteúdo. Muito da hora, né?!">
+                                Clique para ver o popover</button>
+        </div>
+        
+      
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script type="text/javascript">
+        $(document).ready (function () {
+                $('[data-toggle="tooltip"]').tooltip();
+                $('[data-toggle="popover"]').popover();
+        });
+</script>
+<script src="bootstrap/js/bootstrap.min.js"></script>
+
+</body>
+
+
+</html>
